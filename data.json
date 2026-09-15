@@ -66,9 +66,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0186",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 18 / 02:00 → 18 / 05:00",
-      "arribo_prev": "18 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 4,
@@ -159,9 +158,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0187",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 18 / 02:00 → 18 / 05:00",
-      "arribo_prev": "18 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 8,
@@ -183,9 +181,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0188",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 18 / 22:00 → 18 / 18:00",
-      "arribo_prev": "18 / 22:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 9,
@@ -221,18 +218,17 @@
       "dest": "China, Japón, México",
       "arribo": "21 / 23:00",
       "zarpe": "23 / 08:00",
-      "zarpe_prev": "19 / 22:00",
+      "zarpe_prev": null,
       "co_dry": "21 / 17:00\nDRY & REEFER",
-      "co_dry_prev": "17 / 20:00\nDRY & REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "21 / 17:00\nDRY & REEFER",
-      "co_rf_prev": "17 / 20:00\nDRY & REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026OOLU0007",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 18 / 10:00 → 21 / 23:00 | Zarpe EC: 19 / 22:00 → 23 / 08:00 | Cut Off DRY: 17 / 20:00\nDRY & REEFER → 21 / 17:00\nDRY & REEFER | Cut Off Reefer: 17 / 20:00\nDRY & REEFER → 21 / 17:00\nDRY & REEFER",
-      "arribo_prev": "18 / 10:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 11,
@@ -1063,7 +1059,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-15T17:05:21.924081",
+  "updated_at": "2026-09-15T18:04:40.745725",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
