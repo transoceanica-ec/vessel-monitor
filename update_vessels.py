@@ -965,7 +965,7 @@ def send_notification(cambios: dict) -> bool:
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
             smtp.login(GMAIL_SENDER, GMAIL_APP_PASSWORD.replace(" ", ""))
-            smtp.sendmail(GMAIL_SENDER, NOTIFY_TO, msg.as_string())
+            smtp.send_message(msg)
         log.info("Notificación enviada a %s (%s)", NOTIFY_TO, asunto)
         return True
     except Exception as e:
