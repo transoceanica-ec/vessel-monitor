@@ -31,12 +31,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           TZ: America/Guayaquil
         run: python update_vessels.py
-        
-     - name: Commit y push data.json
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git add data.json
-    git diff --cached --quiet || git commit -m "auto-update $(TZ='America/Guayaquil' date +'%Y-%m-%d %H:%M EC')"
-    git pull --rebase
-    git push
+
+      - name: Commit y push data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "auto-update $(TZ='America/Guayaquil' date +'%Y-%m-%d %H:%M EC')"
+          git pull --rebase
+          git push
