@@ -907,18 +907,18 @@
       "svc": "FLX- NORTE",
       "dest": "FLX- NORTE",
       "arribo": "Viernes 25/09/2026 15:00",
-      "zarpe": "Sábado 26/09/2026 14:00",
-      "zarpe_prev": null,
-      "co_dry": "Viernes 25/09/2026 03:00",
-      "co_dry_prev": null,
+      "zarpe": "Sábado 26/09/2026 15:00",
+      "zarpe_prev": "Sábado 26/09/2026 14:00",
+      "co_dry": "Viernes 25/09/2026 07:00",
+      "co_dry_prev": "Viernes 25/09/2026 03:00",
       "co_dry_past": false,
       "co_rf": "Viernes 25/09/2026 7:00",
       "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Zarpe EC: Sábado 26/09/2026 14:00 → Sábado 26/09/2026 15:00 | Cut Off DRY: Viernes 25/09/2026 03:00 → Viernes 25/09/2026 07:00"
     },
     {
       "id": 41,
@@ -990,10 +990,10 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-17T14:04:46.283313",
+  "updated_at": "2026-09-17T15:05:17.231598",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-09-17T09:05:45.892342"
+  "last_changes_at": "2026-09-17T15:05:16.977376"
 }
