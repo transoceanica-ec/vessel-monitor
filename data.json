@@ -11,7 +11,7 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "14 / 23:36",
       "zarpe": "15 / 19:05",
-      "zarpe_prev": "15 / 18:00",
+      "zarpe_prev": null,
       "co_dry": "14 / 07:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -20,9 +20,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0184",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 14 / 23:00 → 14 / 23:36 | Zarpe EC: 15 / 18:00 → 15 / 19:05",
-      "arribo_prev": "14 / 23:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 2,
@@ -173,7 +172,7 @@
       "dest": "China, Japón, México",
       "arribo": "18 / 18:00",
       "zarpe": "20 / 09:00",
-      "zarpe_prev": "20 / 06:00",
+      "zarpe_prev": null,
       "co_dry": "18 / 23:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -182,8 +181,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0188",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Zarpe EC: 20 / 06:00 → 20 / 09:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 9,
@@ -290,15 +289,15 @@
       "zarpe": "25 / 20:00",
       "zarpe_prev": null,
       "co_dry": "24 / 05:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "24 / 05:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0046",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 24 / 05:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 24 / 05:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 14,
@@ -991,7 +990,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-17T09:05:46.440322",
+  "updated_at": "2026-09-17T10:05:36.426136",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
