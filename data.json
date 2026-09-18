@@ -34,7 +34,7 @@
       "dest": "China, Japón, México",
       "arribo": "17 / 05:05",
       "zarpe": "17 / 14:40",
-      "zarpe_prev": "17 / 20:00",
+      "zarpe_prev": null,
       "co_dry": "16 / 23:30\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -43,9 +43,8 @@
       "co_rf_past": false,
       "mrn": "CEC202678120608",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 17 / 08:00 → 17 / 05:05 | Zarpe EC: 17 / 20:00 → 17 / 14:40",
-      "arribo_prev": "17 / 08:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 3,
@@ -81,7 +80,7 @@
       "dest": "EEUU, Puerto Rico, Bahamas",
       "arribo": "17 / 02:24",
       "zarpe": "18 / 05:55",
-      "zarpe_prev": "18 / 12:00",
+      "zarpe_prev": null,
       "co_dry": "16 / 19:00 DRY\n16 / 23:00 REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -90,9 +89,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0185",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 17 / 02:00 → 17 / 02:24 | Zarpe EC: 18 / 12:00 → 18 / 05:55",
-      "arribo_prev": "17 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 5,
@@ -312,18 +310,17 @@
       "dest": "EEUU, Puerto Rico, México",
       "arribo": "25 / 10:00",
       "zarpe": "26 / 15:00",
-      "zarpe_prev": "26 / 18:00",
+      "zarpe_prev": null,
       "co_dry": "25 / 07:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "25 / 07:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0047",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 25 / 12:00 → 25 / 10:00 | Zarpe EC: 26 / 18:00 → 26 / 15:00 | Cut Off DRY: POR CONFIRMAR → 25 / 07:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 25 / 07:00\nDRY & REEFER",
-      "arribo_prev": "25 / 12:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 15,
@@ -993,7 +990,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-18T17:04:58.642159",
+  "updated_at": "2026-09-18T18:04:47.067250",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
