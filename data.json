@@ -609,18 +609,17 @@
       "dest": "Asia / Transpacífico Sur",
       "arribo": "Miércoles 23/09/2026 23:30",
       "zarpe": "Jueves 24/09/2026 11:00",
-      "zarpe_prev": "Jueves 24/09/2026 12:00",
+      "zarpe_prev": null,
       "co_dry": "Miércoles 23/09/2026 11:30",
-      "co_dry_prev": "Miércoles 23/09/2026 13:30",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Miércoles 23/09/2026 11:30",
-      "co_rf_prev": "Miércoles 23/09/2026 13:30",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Miércoles 23/09/2026 22:30 → Miércoles 23/09/2026 23:30 | Zarpe EC: Jueves 24/09/2026 12:00 → Jueves 24/09/2026 11:00 | Cut Off DRY: Miércoles 23/09/2026 13:30 → Miércoles 23/09/2026 11:30 | Cut Off Reefer: Miércoles 23/09/2026 13:30 → Miércoles 23/09/2026 11:30",
-      "arribo_prev": "Miércoles 23/09/2026 22:30"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 28,
@@ -1037,7 +1036,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-21T12:04:56.170353",
+  "updated_at": "2026-09-21T13:06:20.911380",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
