@@ -630,19 +630,20 @@
       "terminal": "Guayaquil (CONTECON)",
       "svc": "GPX-NORTE",
       "dest": "Asia / Transpacífico Norte",
-      "arribo": "Jueves 24/09/2026 13:30",
+      "arribo": "Jueves 24/09/2026 12:30",
       "zarpe": "Jueves 24/09/2026 20:00",
       "zarpe_prev": null,
-      "co_dry": "Miércoles 23/09/2026 23:30",
-      "co_dry_prev": null,
+      "co_dry": "Jueves 24/09/2026 0:30",
+      "co_dry_prev": "Miércoles 23/09/2026 23:30",
       "co_dry_past": false,
-      "co_rf": "Miércoles 23/09/2026 23:30",
-      "co_rf_prev": null,
+      "co_rf": "Jueves 24/09/2026 0:30",
+      "co_rf_prev": "Miércoles 23/09/2026 23:30",
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: Jueves 24/09/2026 13:30 → Jueves 24/09/2026 12:30 | Cut Off DRY: Miércoles 23/09/2026 23:30 → Jueves 24/09/2026 0:30 | Cut Off Reefer: Miércoles 23/09/2026 23:30 → Jueves 24/09/2026 0:30",
+      "arribo_prev": "Jueves 24/09/2026 13:30"
     },
     {
       "id": 29,
@@ -1036,10 +1037,10 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-21T16:04:44.364061",
+  "updated_at": "2026-09-21T17:05:02.649391",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-09-21T12:04:54.807805"
+  "last_changes_at": "2026-09-21T17:05:02.429466"
 }
