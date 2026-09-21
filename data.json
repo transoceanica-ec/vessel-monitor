@@ -839,18 +839,17 @@
       "dest": "Asia / Transpacífico",
       "arribo": "Domingo 27/09/2026 20:00",
       "zarpe": "Jueves 01/10/2026 14:00",
-      "zarpe_prev": "Jueves 01/10/2026 22:00",
+      "zarpe_prev": null,
       "co_dry": "Lunes 28/09/2026 12:00",
-      "co_dry_prev": "Domingo 27/09/2026 12:00",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Lunes 28/09/2026 12:00",
-      "co_rf_prev": "Domingo 27/09/2026 12:00",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Domingo 27/09/2026 17:00 → Domingo 27/09/2026 20:00 | Zarpe EC: Jueves 01/10/2026 22:00 → Jueves 01/10/2026 14:00 | Cut Off DRY: Domingo 27/09/2026 12:00 → Lunes 28/09/2026 12:00 | Cut Off Reefer: Domingo 27/09/2026 12:00 → Lunes 28/09/2026 12:00",
-      "arribo_prev": "Domingo 27/09/2026 17:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 38,
@@ -991,7 +990,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-20T21:04:57.020722",
+  "updated_at": "2026-09-20T22:05:02.136699",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
