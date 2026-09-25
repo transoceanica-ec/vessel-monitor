@@ -929,9 +929,9 @@
       "terminal": "Posorja (DPW)",
       "svc": "AX4",
       "dest": "Asia / Transpacífico",
-      "arribo": "Martes 29/09/2026 9:00",
-      "zarpe": "Miércoles 30/09/2026 10:00",
-      "zarpe_prev": null,
+      "arribo": "Martes 29/09/2026 15:00",
+      "zarpe": "Miércoles 30/09/2026 13:00",
+      "zarpe_prev": "Miércoles 30/09/2026 10:00",
       "co_dry": "Lunes 28/09/2026 21:00",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -940,8 +940,9 @@
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: Martes 29/09/2026 9:00 → Martes 29/09/2026 15:00 | Zarpe EC: Miércoles 30/09/2026 10:00 → Miércoles 30/09/2026 13:00",
+      "arribo_prev": "Martes 29/09/2026 9:00"
     },
     {
       "id": 42,
@@ -1036,10 +1037,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-09-25T10:05:51.172039",
+  "updated_at": "2026-09-25T11:05:49.927187",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-09-24T07:06:51.220025"
+  "last_changes_at": "2026-09-25T11:05:49.492682"
 }
