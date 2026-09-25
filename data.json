@@ -494,7 +494,7 @@
       "dest": "Asia / Transpacífico Norte",
       "arribo": "Jueves 24/09/2026 08:30",
       "zarpe": "Jueves 24/09/2026 18:00",
-      "zarpe_prev": "Jueves 24/09/2026 20:00",
+      "zarpe_prev": null,
       "co_dry": "Jueves 24/09/2026 0:30",
       "co_dry_prev": null,
       "co_dry_past": true,
@@ -503,9 +503,8 @@
       "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Jueves 24/09/2026 12:30 → Jueves 24/09/2026 08:30 | Zarpe EC: Jueves 24/09/2026 20:00 → Jueves 24/09/2026 18:00",
-      "arribo_prev": "Jueves 24/09/2026 12:30"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 23,
@@ -886,18 +885,17 @@
       "dest": "Asia / Transpacífico Sur",
       "arribo": "Miércoles 30/09/2026 23:30",
       "zarpe": "Jueves 01/10/2026 11:00",
-      "zarpe_prev": "Viernes 02/10/2026 11:00",
+      "zarpe_prev": null,
       "co_dry": "Miércoles 30/09/2026 11:30",
-      "co_dry_prev": "Jueves 01/10/2026 11:30",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Miércoles 30/09/2026 11:30",
-      "co_rf_prev": "Jueves 01/10/2026 11:30",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Jueves 01/10/2026 23:30 → Miércoles 30/09/2026 23:30 | Zarpe EC: Viernes 02/10/2026 11:00 → Jueves 01/10/2026 11:00 | Cut Off DRY: Jueves 01/10/2026 11:30 → Miércoles 30/09/2026 11:30 | Cut Off Reefer: Jueves 01/10/2026 11:30 → Miércoles 30/09/2026 11:30",
-      "arribo_prev": "Jueves 01/10/2026 23:30"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 40,
@@ -979,7 +977,7 @@
       "dest": "EEUU, Puerto Rico, Bahamas",
       "arribo": "Viernes 02/10/2026 04:00",
       "zarpe": "Sábado 03/10/2026 05:00",
-      "zarpe_prev": "Viernes 02/10/2026 12:00",
+      "zarpe_prev": null,
       "co_dry": "Miércoles 30/09/2026 19:00",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -988,9 +986,8 @@
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Jueves 01/10/2026 07:00 → Viernes 02/10/2026 04:00 | Zarpe EC: Viernes 02/10/2026 12:00 → Sábado 03/10/2026 05:00",
-      "arribo_prev": "Jueves 01/10/2026 07:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 44,
@@ -1003,18 +1000,17 @@
       "dest": "FLX- NORTE",
       "arribo": "Viernes 02/10/2026 17:00",
       "zarpe": "Sábado 03/10/2026 18:00",
-      "zarpe_prev": "Sábado 03/10/2026 15:00",
+      "zarpe_prev": null,
       "co_dry": "Jueves 01/10/2026 19:00",
-      "co_dry_prev": "Viernes 02/10/2026 07:00",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Jueves 01/10/2026 23:00",
-      "co_rf_prev": "Viernes 02/10/2026 7:00",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Viernes 02/10/2026 15:00 → Viernes 02/10/2026 17:00 | Zarpe EC: Sábado 03/10/2026 15:00 → Sábado 03/10/2026 18:00 | Cut Off DRY: Viernes 02/10/2026 07:00 → Jueves 01/10/2026 19:00 | Cut Off Reefer: Viernes 02/10/2026 7:00 → Jueves 01/10/2026 23:00",
-      "arribo_prev": "Viernes 02/10/2026 15:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 45,
@@ -1040,7 +1036,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-09-25T17:05:38.289509",
+  "updated_at": "2026-09-25T18:04:43.895904",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
