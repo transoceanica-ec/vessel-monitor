@@ -845,7 +845,7 @@
       "co_dry_past": false,
       "co_rf": "Viernes 25/09/2026 07:00",
       "co_rf_prev": null,
-      "co_rf_past": false,
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
       "status": "ok",
@@ -1036,7 +1036,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-09-25T06:05:22.561861",
+  "updated_at": "2026-09-25T07:06:28.325818",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
