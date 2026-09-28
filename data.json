@@ -57,18 +57,17 @@
       "dest": "SPOT CALL",
       "arribo": "30 / 16:00",
       "zarpe": "01 / 21:00",
-      "zarpe_prev": "30 / 07:00",
+      "zarpe_prev": null,
       "co_dry": "30 / 12:00\nDRY & REEFER",
-      "co_dry_prev": "28 / 23:00\nDRY & REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "30 / 12:00\nDRY & REEFER",
-      "co_rf_prev": "28 / 23:00\nDRY & REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0197",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 29 / 02:00 → 30 / 16:00 | Zarpe EC: 30 / 07:00 → 01 / 21:00 | Cut Off DRY: 28 / 23:00\nDRY & REEFER → 30 / 12:00\nDRY & REEFER | Cut Off Reefer: 28 / 23:00\nDRY & REEFER → 30 / 12:00\nDRY & REEFER",
-      "arribo_prev": "29 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 4,
@@ -83,15 +82,15 @@
       "zarpe": "02 / 12:00",
       "zarpe_prev": null,
       "co_dry": "30 / 19:00 DRY\n30 / 23:00 REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "30 / 19:00 DRY\n30 / 23:00 REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0050",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 30 / 19:00 DRY\n30 / 23:00 REEFER | Cut Off Reefer: POR CONFIRMAR → 30 / 19:00 DRY\n30 / 23:00 REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 5,
@@ -219,7 +218,7 @@
       "dest": "China, Japón, México",
       "arribo": "21 / 23:06",
       "zarpe": "23 / 20:55",
-      "zarpe_prev": "23 / 08:00",
+      "zarpe_prev": null,
       "co_dry": "21 / 17:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -228,9 +227,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026OOLU0007",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 21 / 23:00 → 21 / 23:06 | Zarpe EC: 23 / 08:00 → 23 / 20:55",
-      "arribo_prev": "21 / 23:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 11,
@@ -298,9 +296,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026COSU0046",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 24 / 15:00 → 24 / 14:00",
-      "arribo_prev": "24 / 15:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 14,
@@ -359,7 +356,7 @@
       "dest": "China, Japón, México",
       "arribo": "25 / 13:00",
       "zarpe": "27 / 14:00",
-      "zarpe_prev": "27 / 06:00",
+      "zarpe_prev": null,
       "co_dry": "25 / 23:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -368,9 +365,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0191",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 25 / 22:00 → 25 / 13:00 | Zarpe EC: 27 / 06:00 → 27 / 14:00",
-      "arribo_prev": "25 / 22:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 17,
@@ -1063,7 +1059,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-09-27T22:05:57.742859",
+  "updated_at": "2026-09-27T23:06:02.982693",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
