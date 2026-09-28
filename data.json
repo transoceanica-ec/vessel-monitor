@@ -41,7 +41,7 @@
       "co_rf": "POR CONFIRMAR",
       "co_rf_prev": null,
       "co_rf_past": false,
-      "mrn": "—",
+      "mrn": "CEC202678120621",
       "fuente": "AMC",
       "status": "pend",
       "nota": null
@@ -49,7 +49,31 @@
     {
       "id": 3,
       "wk": 39,
-      "carrier": "—",
+      "carrier": "CMA",
+      "nave": "HANSA SIEGBURG CMA",
+      "viaje": "AMX100S19",
+      "terminal": "Guayaquil",
+      "svc": "SPOT CALL",
+      "dest": "SPOT CALL",
+      "arribo": "30 / 16:00",
+      "zarpe": "01 / 21:00",
+      "zarpe_prev": "30 / 07:00",
+      "co_dry": "30 / 12:00\nDRY & REEFER",
+      "co_dry_prev": "28 / 23:00\nDRY & REEFER",
+      "co_dry_past": false,
+      "co_rf": "30 / 12:00\nDRY & REEFER",
+      "co_rf_prev": "28 / 23:00\nDRY & REEFER",
+      "co_rf_past": false,
+      "mrn": "CEC2026CMAU0197",
+      "fuente": "AMC",
+      "status": "mod",
+      "nota": "Arribo EC: 29 / 02:00 → 30 / 16:00 | Zarpe EC: 30 / 07:00 → 01 / 21:00 | Cut Off DRY: 28 / 23:00\nDRY & REEFER → 30 / 12:00\nDRY & REEFER | Cut Off Reefer: 28 / 23:00\nDRY & REEFER → 30 / 12:00\nDRY & REEFER",
+      "arribo_prev": "29 / 02:00"
+    },
+    {
+      "id": 4,
+      "wk": 39,
+      "carrier": "COS",
       "nave": "MATTHEW SCHULTE COS",
       "viaje": "0LIJUS1MA",
       "terminal": "Guayaquil",
@@ -58,19 +82,19 @@
       "arribo": "01 / 02:00",
       "zarpe": "02 / 12:00",
       "zarpe_prev": null,
-      "co_dry": "POR CONFIRMAR",
-      "co_dry_prev": null,
+      "co_dry": "30 / 19:00 DRY\n30 / 23:00 REEFER",
+      "co_dry_prev": "POR CONFIRMAR",
       "co_dry_past": false,
-      "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
+      "co_rf": "30 / 19:00 DRY\n30 / 23:00 REEFER",
+      "co_rf_prev": "POR CONFIRMAR",
       "co_rf_past": false,
-      "mrn": "—",
+      "mrn": "CEC2026COSU0050",
       "fuente": "AMC",
-      "status": "pend",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: POR CONFIRMAR → 30 / 19:00 DRY\n30 / 23:00 REEFER | Cut Off Reefer: POR CONFIRMAR → 30 / 19:00 DRY\n30 / 23:00 REEFER"
     },
     {
-      "id": 4,
+      "id": 5,
       "wk": 39,
       "carrier": "CMA",
       "nave": "CMA CGM ESTELLE CMA",
@@ -93,7 +117,7 @@
       "nota": null
     },
     {
-      "id": 5,
+      "id": 6,
       "wk": 39,
       "carrier": "CMA",
       "nave": "CMA CGM FORT ST LOUIS CMA",
@@ -116,7 +140,7 @@
       "nota": null
     },
     {
-      "id": 6,
+      "id": 7,
       "wk": 39,
       "carrier": "CMA",
       "nave": "CMA CGM BETTER WAYS CMA",
@@ -139,7 +163,7 @@
       "nota": null
     },
     {
-      "id": 7,
+      "id": 8,
       "wk": 39,
       "carrier": "CMA",
       "nave": "CMA CGM CHILE CMA",
@@ -162,7 +186,7 @@
       "nota": null
     },
     {
-      "id": 8,
+      "id": 9,
       "wk": 39,
       "carrier": "HLC",
       "nave": "VALPARAISO EXPRESS HLC",
@@ -185,7 +209,7 @@
       "nota": null
     },
     {
-      "id": 9,
+      "id": 10,
       "wk": 39,
       "carrier": "COS",
       "nave": "GLEN CANYON COS",
@@ -193,9 +217,9 @@
       "terminal": "Guayaquil",
       "svc": "M2A",
       "dest": "China, Japón, México",
-      "arribo": "21 / 23:00",
-      "zarpe": "23 / 08:00",
-      "zarpe_prev": null,
+      "arribo": "21 / 23:06",
+      "zarpe": "23 / 20:55",
+      "zarpe_prev": "23 / 08:00",
       "co_dry": "21 / 17:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -204,11 +228,12 @@
       "co_rf_past": false,
       "mrn": "CEC2026OOLU0007",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 21 / 23:00 → 21 / 23:06 | Zarpe EC: 23 / 08:00 → 23 / 20:55",
+      "arribo_prev": "21 / 23:00"
     },
     {
-      "id": 10,
+      "id": 11,
       "wk": 39,
       "carrier": "CMA",
       "nave": "CMA CGM POINTE-NOIRE CMA",
@@ -216,8 +241,8 @@
       "terminal": "Posorja (DPW)",
       "svc": "MEDCAR",
       "dest": "Mediterráneo / Caribe",
-      "arribo": "24 / 04:00",
-      "zarpe": "24 / 18:00",
+      "arribo": "24 / 04:02",
+      "zarpe": "24 / 17:24",
       "zarpe_prev": null,
       "co_dry": "23 / 19:00\nDRY & REEFER",
       "co_dry_prev": null,
@@ -231,7 +256,7 @@
       "nota": null
     },
     {
-      "id": 11,
+      "id": 12,
       "wk": 39,
       "carrier": "—",
       "nave": "ECO MARIN XPD",
@@ -239,8 +264,8 @@
       "terminal": "Guayaquil",
       "svc": "M2A",
       "dest": "China, Japón, México",
-      "arribo": "24 / 08:00",
-      "zarpe": "24 / 20:00",
+      "arribo": "24 / 04:18",
+      "zarpe": "24 / 22:24",
       "zarpe_prev": null,
       "co_dry": "24 / 00:30\nDRY & REEFER",
       "co_dry_prev": null,
@@ -254,7 +279,7 @@
       "nota": null
     },
     {
-      "id": 12,
+      "id": 13,
       "wk": 39,
       "carrier": "COS",
       "nave": "COSCO SHIPPING SEINE COS",
@@ -262,7 +287,7 @@
       "terminal": "Posorja (DPW)",
       "svc": "EUROSAL NB",
       "dest": "Bélgica, Bilbao, Rotterdam, Norte Europa",
-      "arribo": "24 / 15:00",
+      "arribo": "24 / 14:00",
       "zarpe": "25 / 20:00",
       "zarpe_prev": null,
       "co_dry": "24 / 05:00\nDRY & REEFER",
@@ -273,11 +298,12 @@
       "co_rf_past": false,
       "mrn": "CEC2026COSU0046",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 24 / 15:00 → 24 / 14:00",
+      "arribo_prev": "24 / 15:00"
     },
     {
-      "id": 13,
+      "id": 14,
       "wk": 39,
       "carrier": "ONE",
       "nave": "MARTINIQUE ONE",
@@ -300,7 +326,7 @@
       "nota": null
     },
     {
-      "id": 14,
+      "id": 15,
       "wk": 39,
       "carrier": "CMA",
       "nave": "CMA CGM POINTE-NOIRE CMA",
@@ -323,7 +349,7 @@
       "nota": null
     },
     {
-      "id": 15,
+      "id": 16,
       "wk": 39,
       "carrier": "CMA",
       "nave": "CMA CGM HELIUM CMA",
@@ -331,9 +357,9 @@
       "terminal": "Posorja (DPW)",
       "svc": "ACSA 1",
       "dest": "China, Japón, México",
-      "arribo": "25 / 22:00",
-      "zarpe": "27 / 06:00",
-      "zarpe_prev": null,
+      "arribo": "25 / 13:00",
+      "zarpe": "27 / 14:00",
+      "zarpe_prev": "27 / 06:00",
       "co_dry": "25 / 23:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -342,11 +368,12 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0191",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 25 / 22:00 → 25 / 13:00 | Zarpe EC: 27 / 06:00 → 27 / 14:00",
+      "arribo_prev": "25 / 22:00"
     },
     {
-      "id": 16,
+      "id": 17,
       "wk": 39,
       "carrier": "HLC",
       "nave": "SALVADOR EXPRESS HLC",
@@ -364,29 +391,6 @@
       "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026HLCU0164",
-      "fuente": "AMC",
-      "status": "ok",
-      "nota": null
-    },
-    {
-      "id": 17,
-      "wk": 39,
-      "carrier": "CMA",
-      "nave": "HANSA SIEGBURG CMA",
-      "viaje": "AMX100S19",
-      "terminal": "Guayaquil",
-      "svc": "SPOT CALL",
-      "dest": "SPOT CALL",
-      "arribo": "29 / 02:00",
-      "zarpe": "30 / 07:00",
-      "zarpe_prev": null,
-      "co_dry": "28 / 23:00\nDRY & REEFER",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "28 / 23:00\nDRY & REEFER",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "CEC2026CMAU0197",
       "fuente": "AMC",
       "status": "ok",
       "nota": null
@@ -533,6 +537,29 @@
       "id": 24,
       "wk": 39,
       "carrier": "—",
+      "nave": "ECO MARIN XPD",
+      "viaje": "363W5S",
+      "terminal": "Guayaquil",
+      "svc": "EUROSAL SB",
+      "dest": "España, Francia, Italia, Mediterráneo Sur",
+      "arribo": "—",
+      "zarpe": "POR CONFIRMAR",
+      "zarpe_prev": null,
+      "co_dry": "POR CONFIRMAR",
+      "co_dry_prev": null,
+      "co_dry_past": false,
+      "co_rf": "POR CONFIRMAR",
+      "co_rf_prev": null,
+      "co_rf_past": false,
+      "mrn": "CEC202678120620",
+      "fuente": "AMC",
+      "status": "pend",
+      "nota": null
+    },
+    {
+      "id": 25,
+      "wk": 39,
+      "carrier": "—",
       "nave": "PLAZOS DOCUMENTALES",
       "viaje": "",
       "terminal": "—",
@@ -553,7 +580,7 @@
       "nota": null
     },
     {
-      "id": 25,
+      "id": 26,
       "wk": 39,
       "carrier": "—",
       "nave": "EUROSAL SUR",
@@ -576,7 +603,7 @@
       "nota": null
     },
     {
-      "id": 26,
+      "id": 27,
       "wk": 39,
       "carrier": "—",
       "nave": "M2A",
@@ -599,7 +626,7 @@
       "nota": null
     },
     {
-      "id": 27,
+      "id": 28,
       "wk": 39,
       "carrier": "—",
       "nave": "AMERICAS XL SB",
@@ -622,7 +649,7 @@
       "nota": null
     },
     {
-      "id": 28,
+      "id": 29,
       "wk": 39,
       "carrier": "—",
       "nave": "AMERICAS XL NB",
@@ -645,7 +672,7 @@
       "nota": null
     },
     {
-      "id": 29,
+      "id": 30,
       "wk": 39,
       "carrier": "—",
       "nave": "MEDCAR POSORJA",
@@ -668,7 +695,7 @@
       "nota": null
     },
     {
-      "id": 30,
+      "id": 31,
       "wk": 39,
       "carrier": "—",
       "nave": "MEDCAR GUAYAQUIL",
@@ -691,7 +718,7 @@
       "nota": null
     },
     {
-      "id": 31,
+      "id": 32,
       "wk": 39,
       "carrier": "—",
       "nave": "EUROSAL NB",
@@ -714,7 +741,7 @@
       "nota": null
     },
     {
-      "id": 32,
+      "id": 33,
       "wk": 39,
       "carrier": "—",
       "nave": "ACSA 1",
@@ -737,7 +764,7 @@
       "nota": null
     },
     {
-      "id": 33,
+      "id": 34,
       "wk": 39,
       "carrier": "—",
       "nave": "NOTA IMPORTANTE:",
@@ -760,7 +787,7 @@
       "nota": null
     },
     {
-      "id": 34,
+      "id": 35,
       "wk": 39,
       "carrier": "—",
       "nave": "Por favor notar que se aplicarán los siguientes rubros en caso de envío y solicitudes de correcciones fuera de plazo:\nSolicitud de correcciones fuera de plazo $ 272",
@@ -783,7 +810,7 @@
       "nota": null
     },
     {
-      "id": 35,
+      "id": 36,
       "wk": 39,
       "carrier": "—",
       "nave": "Considerar que en caso de no recibir su(s) Shipping instruction(s), la (s) unidad(es) no podrián ser considerada(s) para embarque.",
@@ -806,7 +833,7 @@
       "nota": null
     },
     {
-      "id": 36,
+      "id": 37,
       "wk": 39,
       "carrier": "ONE",
       "nave": "FLX-SUR",
@@ -829,7 +856,7 @@
       "nota": null
     },
     {
-      "id": 37,
+      "id": 38,
       "wk": 39,
       "carrier": "ONE",
       "nave": "FLX- NORTE",
@@ -852,7 +879,7 @@
       "nota": null
     },
     {
-      "id": 38,
+      "id": 39,
       "wk": 39,
       "carrier": "ONE",
       "nave": "AX4 Blank Sailing",
@@ -875,7 +902,7 @@
       "nota": "Blank Sailing."
     },
     {
-      "id": 39,
+      "id": 40,
       "wk": 40,
       "carrier": "XPD",
       "nave": "ECO MARIN 2640S",
@@ -898,7 +925,7 @@
       "nota": null
     },
     {
-      "id": 40,
+      "id": 41,
       "wk": 40,
       "carrier": "XPD",
       "nave": "ECO SIROCCO 2639N",
@@ -921,7 +948,7 @@
       "nota": null
     },
     {
-      "id": 41,
+      "id": 42,
       "wk": 40,
       "carrier": "ONE",
       "nave": "YOKOHAMA EXPRESS 2634W",
@@ -944,7 +971,7 @@
       "nota": null
     },
     {
-      "id": 42,
+      "id": 43,
       "wk": 40,
       "carrier": "ONE",
       "nave": "HYUNDAI FORCE 0118W",
@@ -967,7 +994,7 @@
       "nota": null
     },
     {
-      "id": 43,
+      "id": 44,
       "wk": 40,
       "carrier": "ONE",
       "nave": "MATTHEW SCHULTE 0146S",
@@ -990,7 +1017,7 @@
       "nota": null
     },
     {
-      "id": 44,
+      "id": 45,
       "wk": 40,
       "carrier": "CMA",
       "nave": "CMA CGM FORT ST LOUIS 0003N",
@@ -1013,7 +1040,7 @@
       "nota": null
     },
     {
-      "id": 45,
+      "id": 46,
       "wk": 40,
       "carrier": "ONE",
       "nave": "NAVE VIAJE",
@@ -1036,10 +1063,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-09-27T21:05:22.042523",
+  "updated_at": "2026-09-27T22:05:57.742859",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-09-25T17:05:37.699609"
+  "last_changes_at": "2026-09-27T22:05:57.507107"
 }
