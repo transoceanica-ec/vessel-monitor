@@ -451,10 +451,10 @@
       "zarpe_prev": null,
       "co_dry": "Lunes 28/09/2026 12:00",
       "co_dry_prev": null,
-      "co_dry_past": false,
+      "co_dry_past": true,
       "co_rf": "Lunes 28/09/2026 12:00",
       "co_rf_prev": null,
-      "co_rf_past": false,
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
       "status": "ok",
@@ -947,29 +947,6 @@
       "id": 42,
       "wk": 40,
       "carrier": "ONE",
-      "nave": "YOKOHAMA EXPRESS 2634W",
-      "viaje": "2634W",
-      "terminal": "Guayaquil (TPG)",
-      "svc": "AX3",
-      "dest": "Asia / Transpacífico",
-      "arribo": "Domingo 04/10/2026 23:00",
-      "zarpe": "Jueves 08/10/2026 14:00",
-      "zarpe_prev": null,
-      "co_dry": "Lunes 05/10/2026 11:00",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "Lunes 05/10/2026 11:00",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "—",
-      "fuente": "ONE",
-      "status": "ok",
-      "nota": null
-    },
-    {
-      "id": 43,
-      "wk": 40,
-      "carrier": "ONE",
       "nave": "HYUNDAI FORCE 0118W",
       "viaje": "0118W",
       "terminal": "Posorja (DPW)",
@@ -990,7 +967,7 @@
       "nota": null
     },
     {
-      "id": 44,
+      "id": 43,
       "wk": 40,
       "carrier": "ONE",
       "nave": "MATTHEW SCHULTE 0146S",
@@ -1013,7 +990,7 @@
       "nota": null
     },
     {
-      "id": 45,
+      "id": 44,
       "wk": 40,
       "carrier": "CMA",
       "nave": "CMA CGM FORT ST LOUIS 0003N",
@@ -1034,6 +1011,30 @@
       "fuente": "ONE",
       "status": "ok",
       "nota": null
+    },
+    {
+      "id": 45,
+      "wk": 40,
+      "carrier": "ONE",
+      "nave": "YOKOHAMA EXPRESS 2634W",
+      "viaje": "2634W",
+      "terminal": "Guayaquil (TPG)",
+      "svc": "AX3",
+      "dest": "Asia / Transpacífico",
+      "arribo": "Miércoles 07/10/2026 4:00",
+      "zarpe": "Sábado 10/10/2026 11:00",
+      "zarpe_prev": "Jueves 08/10/2026 14:00",
+      "co_dry": "Lunes 05/10/2026 12:00",
+      "co_dry_prev": "Lunes 05/10/2026 11:00",
+      "co_dry_past": false,
+      "co_rf": "Lunes 05/10/2026 12:00",
+      "co_rf_prev": "Lunes 05/10/2026 11:00",
+      "co_rf_past": false,
+      "mrn": "—",
+      "fuente": "ONE",
+      "status": "mod",
+      "nota": "Arribo EC: Domingo 04/10/2026 23:00 → Miércoles 07/10/2026 4:00 | Zarpe EC: Jueves 08/10/2026 14:00 → Sábado 10/10/2026 11:00 | Cut Off DRY: Lunes 05/10/2026 11:00 → Lunes 05/10/2026 12:00 | Cut Off Reefer: Lunes 05/10/2026 11:00 → Lunes 05/10/2026 12:00",
+      "arribo_prev": "Domingo 04/10/2026 23:00"
     },
     {
       "id": 46,
@@ -1059,10 +1060,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-09-28T11:07:05.025121",
+  "updated_at": "2026-09-28T12:06:09.938400",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-09-28T10:08:20.699728"
+  "last_changes_at": "2026-09-28T12:06:09.492660"
 }
