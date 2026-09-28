@@ -446,9 +446,9 @@
       "terminal": "Guayaquil (TPG)",
       "svc": "AX3",
       "dest": "Asia / Transpacífico",
-      "arribo": "Domingo 27/09/2026 20:00",
-      "zarpe": "Jueves 01/10/2026 14:00",
-      "zarpe_prev": null,
+      "arribo": "Domingo 27/09/2026 7:00",
+      "zarpe": "Jueves 01/10/2026 2:00",
+      "zarpe_prev": "Jueves 01/10/2026 14:00",
       "co_dry": "Lunes 28/09/2026 12:00",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -457,8 +457,9 @@
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: Domingo 27/09/2026 20:00 → Domingo 27/09/2026 7:00 | Zarpe EC: Jueves 01/10/2026 14:00 → Jueves 01/10/2026 2:00",
+      "arribo_prev": "Domingo 27/09/2026 20:00"
     },
     {
       "id": 21,
@@ -1059,10 +1060,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-09-28T09:08:02.871159",
+  "updated_at": "2026-09-28T10:08:21.416833",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-09-27T22:05:57.507107"
+  "last_changes_at": "2026-09-28T10:08:20.699728"
 }
