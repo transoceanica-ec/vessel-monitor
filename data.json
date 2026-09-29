@@ -841,15 +841,15 @@
       "zarpe": "Sábado 10/10/2026 11:00",
       "zarpe_prev": null,
       "co_dry": "Miércoles 07/10/2026 3:00",
-      "co_dry_prev": "Lunes 05/10/2026 12:00",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Miércoles 07/10/2026 3:00",
-      "co_rf_prev": "Lunes 05/10/2026 12:00",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Cut Off DRY: Lunes 05/10/2026 12:00 → Miércoles 07/10/2026 3:00 | Cut Off Reefer: Lunes 05/10/2026 12:00 → Miércoles 07/10/2026 3:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 38,
@@ -1059,7 +1059,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-29T15:06:40.373551",
+  "updated_at": "2026-09-29T16:05:22.953857",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
