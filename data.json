@@ -891,7 +891,7 @@
       "co_dry_past": false,
       "co_rf": "Miércoles 30/09/2026 19:00",
       "co_rf_prev": null,
-      "co_rf_past": false,
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
       "status": "ok",
@@ -1059,7 +1059,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-09-30T18:04:44.691100",
+  "updated_at": "2026-09-30T19:07:54.190568",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
