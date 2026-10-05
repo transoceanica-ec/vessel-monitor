@@ -586,18 +586,17 @@
       "dest": "Asia / Transpacífico",
       "arribo": "Domingo 18/10/2026 11:00",
       "zarpe": "Miércoles 21/10/2026 20:00",
-      "zarpe_prev": "Martes 20/10/2026 7:00",
+      "zarpe_prev": null,
       "co_dry": "Lunes 19/10/2026 12:00",
-      "co_dry_prev": "Viernes 16/10/2026 21:00",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Lunes 19/10/2026 12:00",
-      "co_rf_prev": "Viernes 16/10/2026 21:00",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Sábado 17/10/2026 9:00 → Domingo 18/10/2026 11:00 | Zarpe EC: Martes 20/10/2026 7:00 → Miércoles 21/10/2026 20:00 | Cut Off DRY: Viernes 16/10/2026 21:00 → Lunes 19/10/2026 12:00 | Cut Off Reefer: Viernes 16/10/2026 21:00 → Lunes 19/10/2026 12:00",
-      "arribo_prev": "Sábado 17/10/2026 9:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 27,
@@ -932,7 +931,7 @@
       "dest": "EEUU, Puerto Rico, Bahamas",
       "arribo": "Jueves 08/10/2026 07:00",
       "zarpe": "Viernes 09/10/2026 12:00",
-      "zarpe_prev": "Sábado 10/10/2026 05:00",
+      "zarpe_prev": null,
       "co_dry": "Miércoles 07/10/2026 19:00",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -941,9 +940,8 @@
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Viernes 09/10/2026 04:00 → Jueves 08/10/2026 07:00 | Zarpe EC: Sábado 10/10/2026 05:00 → Viernes 09/10/2026 12:00",
-      "arribo_prev": "Viernes 09/10/2026 04:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 42,
@@ -992,7 +990,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-05T10:08:42.064553",
+  "updated_at": "2026-10-05T11:07:05.732022",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
