@@ -335,19 +335,42 @@
       "zarpe": "13 / 08:00",
       "zarpe_prev": null,
       "co_dry": "12 / 07:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "12 / 07:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026HLCU0177",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 12 / 15:00 → 12 / 12:00 | Cut Off DRY: POR CONFIRMAR → 12 / 07:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 12 / 07:00\nDRY & REEFER",
-      "arribo_prev": "12 / 15:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 16,
+      "wk": 41,
+      "carrier": "ONE",
+      "nave": "HSL NIKE ONE",
+      "viaje": "AMX020S19",
+      "terminal": "Guayaquil",
+      "svc": "AMERICAS XL SB",
+      "dest": "EEUU, Puerto Rico, Bahamas",
+      "arribo": "12 / 18:00",
+      "zarpe": "13 / 23:00",
+      "zarpe_prev": "16 / 12:00",
+      "co_dry": "12 / 11:00 DRY\n12 / 15:00 REEFER",
+      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_past": false,
+      "co_rf": "12 / 11:00 DRY\n12 / 15:00 REEFER",
+      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_past": false,
+      "mrn": "CEC2026ONEU0048",
+      "fuente": "AMC",
+      "status": "mod",
+      "nota": "Arribo EC: 15 / 02:00 → 12 / 18:00 | Zarpe EC: 16 / 12:00 → 13 / 23:00 | Cut Off DRY: POR CONFIRMAR → 12 / 11:00 DRY\n12 / 15:00 REEFER | Cut Off Reefer: POR CONFIRMAR → 12 / 11:00 DRY\n12 / 15:00 REEFER",
+      "arribo_prev": "15 / 02:00"
+    },
+    {
+      "id": 17,
       "wk": 41,
       "carrier": "COS",
       "nave": "CSCL WINTER COS",
@@ -357,21 +380,20 @@
       "dest": "China, Japón, México",
       "arribo": "13 / 08:00",
       "zarpe": "14 / 20:00",
-      "zarpe_prev": "12 / 17:00",
+      "zarpe_prev": null,
       "co_dry": "13 / 00:01\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "13 / 00:01\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0048",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 11 / 05:00 → 13 / 08:00 | Zarpe EC: 12 / 17:00 → 14 / 20:00 | Cut Off DRY: POR CONFIRMAR → 13 / 00:01\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 13 / 00:01\nDRY & REEFER",
-      "arribo_prev": "11 / 05:00"
+      "status": "ok",
+      "nota": null
     },
     {
-      "id": 17,
+      "id": 18,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM WISDOM CMA",
@@ -383,18 +405,18 @@
       "zarpe": "15 / 18:00",
       "zarpe_prev": null,
       "co_dry": "14 / 19:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "14 / 19:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0201",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 16 / 15:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 16 / 15:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
-      "id": 18,
+      "id": 19,
       "wk": 41,
       "carrier": "—",
       "nave": "ECO SIROCCO XPD",
@@ -404,29 +426,6 @@
       "dest": "China, Japón, México",
       "arribo": "15 / 07:00",
       "zarpe": "15 / 20:00",
-      "zarpe_prev": null,
-      "co_dry": "POR CONFIRMAR",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "—",
-      "fuente": "AMC",
-      "status": "pend",
-      "nota": null
-    },
-    {
-      "id": 19,
-      "wk": 41,
-      "carrier": "—",
-      "nave": "HSL NIKE ONE",
-      "viaje": "AMX020S19",
-      "terminal": "Guayaquil",
-      "svc": "AMERICAS XL SB",
-      "dest": "EEUU, Puerto Rico, Bahamas",
-      "arribo": "15 / 02:00",
-      "zarpe": "16 / 12:00",
       "zarpe_prev": null,
       "co_dry": "POR CONFIRMAR",
       "co_dry_prev": null,
@@ -498,15 +497,15 @@
       "zarpe": "17 / 23:00",
       "zarpe_prev": null,
       "co_dry": "16 / 15:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "16 / 15:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0202",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 16 / 15:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 16 / 15:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 23,
@@ -521,15 +520,15 @@
       "zarpe": "18 / 07:00",
       "zarpe_prev": null,
       "co_dry": "16 / 23:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "16 / 23:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0203",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 16 / 23:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 16 / 23:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 24,
@@ -765,6 +764,29 @@
       "id": 34,
       "wk": 41,
       "carrier": "—",
+      "nave": "AMERICAS XL SB\nWEEK 42: HSL NIKE AMX020S19",
+      "viaje": "",
+      "terminal": "Proforma Sin Declaración",
+      "svc": "ACSA 1",
+      "dest": "China, Japón, México",
+      "arribo": "—",
+      "zarpe": "POR CONFIRMAR",
+      "zarpe_prev": null,
+      "co_dry": "MARTES 11:00 AM",
+      "co_dry_prev": null,
+      "co_dry_past": false,
+      "co_rf": "MARTES 11:00 AM",
+      "co_rf_prev": null,
+      "co_rf_past": false,
+      "mrn": "—",
+      "fuente": "AMC",
+      "status": "pend",
+      "nota": null
+    },
+    {
+      "id": 35,
+      "wk": 41,
+      "carrier": "—",
       "nave": "AMERICAS XL NB",
       "viaje": "",
       "terminal": "Proforma Sin Declaración",
@@ -785,7 +807,7 @@
       "nota": null
     },
     {
-      "id": 35,
+      "id": 36,
       "wk": 41,
       "carrier": "—",
       "nave": "MEDCAR POSORJA",
@@ -808,7 +830,7 @@
       "nota": null
     },
     {
-      "id": 36,
+      "id": 37,
       "wk": 41,
       "carrier": "—",
       "nave": "MEDCAR GUAYAQUIL",
@@ -831,7 +853,7 @@
       "nota": null
     },
     {
-      "id": 37,
+      "id": 38,
       "wk": 41,
       "carrier": "—",
       "nave": "EUROSAL NB",
@@ -854,7 +876,7 @@
       "nota": null
     },
     {
-      "id": 38,
+      "id": 39,
       "wk": 41,
       "carrier": "—",
       "nave": "ACSA 1",
@@ -877,7 +899,7 @@
       "nota": null
     },
     {
-      "id": 39,
+      "id": 40,
       "wk": 41,
       "carrier": "—",
       "nave": "NOTA IMPORTANTE:",
@@ -900,7 +922,7 @@
       "nota": null
     },
     {
-      "id": 40,
+      "id": 41,
       "wk": 41,
       "carrier": "—",
       "nave": "Por favor notar que se aplicarán los siguientes rubros en caso de envío y solicitudes de correcciones fuera de plazo:\nSolicitud de correcciones fuera de plazo $ 272",
@@ -923,7 +945,7 @@
       "nota": null
     },
     {
-      "id": 41,
+      "id": 42,
       "wk": 41,
       "carrier": "—",
       "nave": "Considerar que en caso de no recibir su(s) Shipping instruction(s), la (s) unidad(es) no podrián ser considerada(s) para embarque.",
@@ -946,7 +968,7 @@
       "nota": null
     },
     {
-      "id": 42,
+      "id": 43,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM ALIAGA 0008S",
@@ -969,7 +991,7 @@
       "nota": null
     },
     {
-      "id": 43,
+      "id": 44,
       "wk": 41,
       "carrier": "ONE",
       "nave": "NAVE VIAJE",
@@ -992,7 +1014,7 @@
       "nota": null
     },
     {
-      "id": 44,
+      "id": 45,
       "wk": 41,
       "carrier": "ONE",
       "nave": "FLX- NORTE Blank Sailing",
@@ -1015,10 +1037,10 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-05T17:06:18.326802",
+  "updated_at": "2026-10-05T18:04:53.677026",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-10-05T17:06:17.894035"
+  "last_changes_at": "2026-10-05T18:04:53.181922"
 }
