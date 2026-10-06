@@ -356,18 +356,17 @@
       "dest": "EEUU, Puerto Rico, Bahamas",
       "arribo": "12 / 18:00",
       "zarpe": "13 / 23:00",
-      "zarpe_prev": "16 / 12:00",
+      "zarpe_prev": null,
       "co_dry": "12 / 11:00 DRY\n12 / 15:00 REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "12 / 11:00 DRY\n12 / 15:00 REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0048",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 15 / 02:00 → 12 / 18:00 | Zarpe EC: 16 / 12:00 → 13 / 23:00 | Cut Off DRY: POR CONFIRMAR → 12 / 11:00 DRY\n12 / 15:00 REEFER | Cut Off Reefer: POR CONFIRMAR → 12 / 11:00 DRY\n12 / 15:00 REEFER",
-      "arribo_prev": "15 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 17,
@@ -1037,7 +1036,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-05T18:04:53.677026",
+  "updated_at": "2026-10-05T19:07:59.652554",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
