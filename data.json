@@ -187,6 +187,29 @@
     {
       "id": 9,
       "wk": 41,
+      "carrier": "—",
+      "nave": "ECO SIROCCO XPD",
+      "viaje": "365W5S",
+      "terminal": "Guayaquil",
+      "svc": "EUROSAL SB",
+      "dest": "España, Francia, Italia, Mediterráneo Sur",
+      "arribo": "07 / 21:00",
+      "zarpe": "08 / 12:00",
+      "zarpe_prev": null,
+      "co_dry": "07 / 13:30\nDRY & REEFER",
+      "co_dry_prev": null,
+      "co_dry_past": false,
+      "co_rf": "07 / 13:30\nDRY & REEFER",
+      "co_rf_prev": null,
+      "co_rf_past": false,
+      "mrn": "CEC202678120634",
+      "fuente": "AMC",
+      "status": "ok",
+      "nota": null
+    },
+    {
+      "id": 10,
+      "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM HARMONY CMA",
       "viaje": "0DVQLN1MA",
@@ -208,30 +231,30 @@
       "nota": null
     },
     {
-      "id": 10,
+      "id": 11,
       "wk": 41,
       "carrier": "—",
       "nave": "ECO MARIN XPD",
       "viaje": "364W5N",
       "terminal": "Guayaquil",
-      "svc": "M2A",
-      "dest": "China, Japón, México",
+      "svc": "EUROSAL SB",
+      "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "08 / 07:00",
       "zarpe": "08 / 20:00",
       "zarpe_prev": null,
-      "co_dry": "POR CONFIRMAR",
-      "co_dry_prev": null,
+      "co_dry": "08 / 00:30\nDRY & REEFER",
+      "co_dry_prev": "POR CONFIRMAR",
       "co_dry_past": false,
-      "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
+      "co_rf": "08 / 00:30\nDRY & REEFER",
+      "co_rf_prev": "POR CONFIRMAR",
       "co_rf_past": false,
-      "mrn": "—",
+      "mrn": "CEC202678120633",
       "fuente": "AMC",
-      "status": "pend",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: POR CONFIRMAR → 08 / 00:30\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 08 / 00:30\nDRY & REEFER"
     },
     {
-      "id": 11,
+      "id": 12,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM ALIAGA CMA",
@@ -254,7 +277,7 @@
       "nota": null
     },
     {
-      "id": 12,
+      "id": 13,
       "wk": 41,
       "carrier": "HLC",
       "nave": "VALPARAISO EXPRESS HLC",
@@ -277,7 +300,7 @@
       "nota": null
     },
     {
-      "id": 13,
+      "id": 14,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM HARMONY CMA",
@@ -300,7 +323,7 @@
       "nota": null
     },
     {
-      "id": 14,
+      "id": 15,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM IGUACU CMA",
@@ -323,7 +346,7 @@
       "nota": null
     },
     {
-      "id": 15,
+      "id": 16,
       "wk": 41,
       "carrier": "HLC",
       "nave": "SANTOS EXPRESS HLC",
@@ -346,7 +369,7 @@
       "nota": null
     },
     {
-      "id": 16,
+      "id": 17,
       "wk": 41,
       "carrier": "ONE",
       "nave": "HSL NIKE ONE",
@@ -369,7 +392,7 @@
       "nota": null
     },
     {
-      "id": 17,
+      "id": 18,
       "wk": 41,
       "carrier": "COS",
       "nave": "CSCL WINTER COS",
@@ -392,7 +415,7 @@
       "nota": null
     },
     {
-      "id": 18,
+      "id": 19,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM WISDOM CMA",
@@ -415,7 +438,7 @@
       "nota": null
     },
     {
-      "id": 19,
+      "id": 20,
       "wk": 41,
       "carrier": "—",
       "nave": "ECO SIROCCO XPD",
@@ -438,7 +461,7 @@
       "nota": null
     },
     {
-      "id": 20,
+      "id": 21,
       "wk": 41,
       "carrier": "—",
       "nave": "CARTAGENA EXPRESS HLC",
@@ -461,7 +484,7 @@
       "nota": null
     },
     {
-      "id": 21,
+      "id": 22,
       "wk": 41,
       "carrier": "—",
       "nave": "MATTHEW SCHULTE COS",
@@ -484,7 +507,7 @@
       "nota": null
     },
     {
-      "id": 22,
+      "id": 23,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM WISDOM CMA",
@@ -507,7 +530,7 @@
       "nota": null
     },
     {
-      "id": 23,
+      "id": 24,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM MERCURY CMA",
@@ -530,7 +553,7 @@
       "nota": null
     },
     {
-      "id": 24,
+      "id": 25,
       "wk": 41,
       "carrier": "ONE",
       "nave": "ONE COMPETENCE 0099W",
@@ -553,7 +576,7 @@
       "nota": null
     },
     {
-      "id": 25,
+      "id": 26,
       "wk": 41,
       "carrier": "XPD",
       "nave": "ECO SIROCCO 2641S",
@@ -576,7 +599,7 @@
       "nota": null
     },
     {
-      "id": 26,
+      "id": 27,
       "wk": 41,
       "carrier": "XPD",
       "nave": "ECO MARIN 2640N",
@@ -584,22 +607,23 @@
       "terminal": "Guayaquil (CONTECON)",
       "svc": "GPX-NORTE",
       "dest": "Asia / Transpacífico Norte",
-      "arribo": "Jueves 08/10/2026 12:30",
-      "zarpe": "Jueves 08/10/2026 20:00",
-      "zarpe_prev": null,
-      "co_dry": "Jueves 08/10/2026 0:30",
-      "co_dry_prev": null,
+      "arribo": "Jueves 08/10/2026 04:30",
+      "zarpe": "Jueves 08/10/2026 12:30",
+      "zarpe_prev": "Jueves 08/10/2026 20:00",
+      "co_dry": "Miércoles 07/10/2026 16:30",
+      "co_dry_prev": "Jueves 08/10/2026 0:30",
       "co_dry_past": false,
-      "co_rf": "Jueves 08/10/2026 0:30",
-      "co_rf_prev": null,
+      "co_rf": "Miércoles 07/10/2026 16:30",
+      "co_rf_prev": "Jueves 08/10/2026 0:30",
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: Jueves 08/10/2026 12:30 → Jueves 08/10/2026 04:30 | Zarpe EC: Jueves 08/10/2026 20:00 → Jueves 08/10/2026 12:30 | Cut Off DRY: Jueves 08/10/2026 0:30 → Miércoles 07/10/2026 16:30 | Cut Off Reefer: Jueves 08/10/2026 0:30 → Miércoles 07/10/2026 16:30",
+      "arribo_prev": "Jueves 08/10/2026 12:30"
     },
     {
-      "id": 27,
+      "id": 28,
       "wk": 41,
       "carrier": "ONE",
       "nave": "POSORJA EXPRESS 2633W",
@@ -622,7 +646,7 @@
       "nota": null
     },
     {
-      "id": 28,
+      "id": 29,
       "wk": 41,
       "carrier": "—",
       "nave": "CMA",
@@ -645,7 +669,7 @@
       "nota": null
     },
     {
-      "id": 29,
+      "id": 30,
       "wk": 41,
       "carrier": "—",
       "nave": "Week # 42",
@@ -668,7 +692,7 @@
       "nota": null
     },
     {
-      "id": 30,
+      "id": 31,
       "wk": 41,
       "carrier": "—",
       "nave": "PLAZOS DOCUMENTALES",
@@ -691,7 +715,7 @@
       "nota": null
     },
     {
-      "id": 31,
+      "id": 32,
       "wk": 41,
       "carrier": "—",
       "nave": "EUROSAL SUR",
@@ -714,7 +738,7 @@
       "nota": null
     },
     {
-      "id": 32,
+      "id": 33,
       "wk": 41,
       "carrier": "—",
       "nave": "M2A",
@@ -737,7 +761,7 @@
       "nota": null
     },
     {
-      "id": 33,
+      "id": 34,
       "wk": 41,
       "carrier": "—",
       "nave": "AMERICAS XL SB",
@@ -760,7 +784,7 @@
       "nota": null
     },
     {
-      "id": 34,
+      "id": 35,
       "wk": 41,
       "carrier": "—",
       "nave": "AMERICAS XL SB\nWEEK 42: HSL NIKE AMX020S19",
@@ -783,7 +807,7 @@
       "nota": null
     },
     {
-      "id": 35,
+      "id": 36,
       "wk": 41,
       "carrier": "—",
       "nave": "AMERICAS XL NB",
@@ -806,7 +830,7 @@
       "nota": null
     },
     {
-      "id": 36,
+      "id": 37,
       "wk": 41,
       "carrier": "—",
       "nave": "MEDCAR POSORJA",
@@ -829,7 +853,7 @@
       "nota": null
     },
     {
-      "id": 37,
+      "id": 38,
       "wk": 41,
       "carrier": "—",
       "nave": "MEDCAR GUAYAQUIL",
@@ -852,7 +876,7 @@
       "nota": null
     },
     {
-      "id": 38,
+      "id": 39,
       "wk": 41,
       "carrier": "—",
       "nave": "EUROSAL NB",
@@ -875,7 +899,7 @@
       "nota": null
     },
     {
-      "id": 39,
+      "id": 40,
       "wk": 41,
       "carrier": "—",
       "nave": "ACSA 1",
@@ -898,7 +922,7 @@
       "nota": null
     },
     {
-      "id": 40,
+      "id": 41,
       "wk": 41,
       "carrier": "—",
       "nave": "NOTA IMPORTANTE:",
@@ -921,7 +945,7 @@
       "nota": null
     },
     {
-      "id": 41,
+      "id": 42,
       "wk": 41,
       "carrier": "—",
       "nave": "Por favor notar que se aplicarán los siguientes rubros en caso de envío y solicitudes de correcciones fuera de plazo:\nSolicitud de correcciones fuera de plazo $ 272",
@@ -944,7 +968,7 @@
       "nota": null
     },
     {
-      "id": 42,
+      "id": 43,
       "wk": 41,
       "carrier": "—",
       "nave": "Considerar que en caso de no recibir su(s) Shipping instruction(s), la (s) unidad(es) no podrián ser considerada(s) para embarque.",
@@ -967,7 +991,7 @@
       "nota": null
     },
     {
-      "id": 43,
+      "id": 44,
       "wk": 41,
       "carrier": "CMA",
       "nave": "CMA CGM ALIAGA 0008S",
@@ -990,7 +1014,7 @@
       "nota": null
     },
     {
-      "id": 44,
+      "id": 45,
       "wk": 41,
       "carrier": "ONE",
       "nave": "NAVE VIAJE",
@@ -1013,7 +1037,7 @@
       "nota": null
     },
     {
-      "id": 45,
+      "id": 46,
       "wk": 41,
       "carrier": "ONE",
       "nave": "FLX- NORTE Blank Sailing",
@@ -1036,10 +1060,10 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-06T12:06:17.670415",
+  "updated_at": "2026-10-06T13:06:11.803088",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-10-05T18:04:53.181922"
+  "last_changes_at": "2026-10-06T13:06:11.289598"
 }
