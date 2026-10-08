@@ -172,7 +172,7 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "05 / 05:00",
       "zarpe": "06 / 12:55",
-      "zarpe_prev": "06 / 08:00",
+      "zarpe_prev": null,
       "co_dry": "05 / 07:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -181,9 +181,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026HLCU0172",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 05 / 15:00 → 05 / 05:00 | Zarpe EC: 06 / 08:00 → 06 / 12:55",
-      "arribo_prev": "05 / 15:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 9,
@@ -196,18 +195,17 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "08 / 00:01",
       "zarpe": "08 / 12:00",
-      "zarpe_prev": "08 / 20:00",
+      "zarpe_prev": null,
       "co_dry": "07 / 16:00\nDRY & REEFER",
-      "co_dry_prev": "08 / 00:30\nDRY & REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "07 / 16:00\nDRY & REEFER",
-      "co_rf_prev": "08 / 00:30\nDRY & REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC202678120633",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 08 / 07:00 → 08 / 00:01 | Zarpe EC: 08 / 20:00 → 08 / 12:00 | Cut Off DRY: 08 / 00:30\nDRY & REEFER → 07 / 16:00\nDRY & REEFER | Cut Off Reefer: 08 / 00:30\nDRY & REEFER → 07 / 16:00\nDRY & REEFER",
-      "arribo_prev": "08 / 07:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 10,
@@ -1005,7 +1003,7 @@
       "zarpe_prev": null,
       "co_dry": "Miércoles 07/10/2026 19:00",
       "co_dry_prev": null,
-      "co_dry_past": false,
+      "co_dry_past": true,
       "co_rf": "Miércoles 07/10/2026 23:00",
       "co_rf_prev": null,
       "co_rf_past": false,
@@ -1061,7 +1059,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-07T18:04:23.837756",
+  "updated_at": "2026-10-07T19:07:15.847806",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
