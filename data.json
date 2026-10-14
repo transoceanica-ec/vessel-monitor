@@ -170,9 +170,9 @@
       "terminal": "Posorja (DPW)",
       "svc": "EUROSAL SB",
       "dest": "España, Francia, Italia, Mediterráneo Sur",
-      "arribo": "12 / 12:00",
-      "zarpe": "13 / 08:00",
-      "zarpe_prev": null,
+      "arribo": "12 / 14:18",
+      "zarpe": "13 / 12:33",
+      "zarpe_prev": "13 / 08:00",
       "co_dry": "12 / 07:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -181,8 +181,9 @@
       "co_rf_past": false,
       "mrn": "CEC2026HLCU0177",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 12 / 12:00 → 12 / 14:18 | Zarpe EC: 13 / 08:00 → 13 / 12:33",
+      "arribo_prev": "12 / 12:00"
     },
     {
       "id": 9,
@@ -285,9 +286,9 @@
       "terminal": "Guayaquil",
       "svc": "SPOT CALL",
       "dest": "SPOT CALL",
-      "arribo": "15 / 02:00",
-      "zarpe": "16 / 17:00",
-      "zarpe_prev": null,
+      "arribo": "14 / 22:00",
+      "zarpe": "16 / 12:00",
+      "zarpe_prev": "16 / 17:00",
       "co_dry": "14 / 23:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -296,15 +297,16 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0209",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 15 / 02:00 → 14 / 22:00 | Zarpe EC: 16 / 17:00 → 16 / 12:00",
+      "arribo_prev": "15 / 02:00"
     },
     {
       "id": 14,
       "wk": 42,
       "carrier": "HLC",
       "nave": "SALVADOR EXPRESS HLC",
-      "viaje": "0WCOUN1MA",
+      "viaje": "0WCOUN1MA\n0WCOUN1NC",
       "terminal": "Posorja (DPW)",
       "svc": "EUROSAL NB",
       "dest": "Bélgica, Bilbao, Rotterdam, Norte Europa",
@@ -325,7 +327,7 @@
     {
       "id": 15,
       "wk": 42,
-      "carrier": "—",
+      "carrier": "COS",
       "nave": "MATTHEW SCHULTE COS",
       "viaje": "0LIJTN1MA",
       "terminal": "Guayaquil",
@@ -340,7 +342,7 @@
       "co_rf": "16 / 05:00 DRY\n16 / 09:00 REEFER",
       "co_rf_prev": null,
       "co_rf_past": false,
-      "mrn": "—",
+      "mrn": "CEC2026COSU0053",
       "fuente": "AMC",
       "status": "ok",
       "nota": null
@@ -377,7 +379,7 @@
       "terminal": "Posorja (DPW)",
       "svc": "ACSA 1",
       "dest": "China, Japón, México",
-      "arribo": "16 / 22:00",
+      "arribo": "16 / 16:00",
       "zarpe": "18 / 07:00",
       "zarpe_prev": null,
       "co_dry": "16 / 23:00\nDRY & REEFER",
@@ -388,8 +390,9 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0203",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 16 / 22:00 → 16 / 16:00",
+      "arribo_prev": "16 / 22:00"
     },
     {
       "id": 18,
@@ -465,7 +468,7 @@
       "wk": 42,
       "carrier": "—",
       "nave": "ISTANBUL EXPRESS HLC",
-      "viaje": "0WCOWN1MA",
+      "viaje": "0WCOWN1MA\n0WCOWN1NC",
       "terminal": "Posorja (DPW)",
       "svc": "EUROSAL NB",
       "dest": "Bélgica, Bilbao, Rotterdam, Norte Europa",
@@ -485,6 +488,30 @@
     },
     {
       "id": 22,
+      "wk": 42,
+      "carrier": "—",
+      "nave": "ECO MARIN XPD",
+      "viaje": "368W5N",
+      "terminal": "Guayaquil",
+      "svc": "M2A",
+      "dest": "China, Japón, México",
+      "arribo": "23 / 07:00",
+      "zarpe": "23 / 20:00",
+      "zarpe_prev": "POR CONFIRMAR",
+      "co_dry": "POR CONFIRMAR",
+      "co_dry_prev": null,
+      "co_dry_past": false,
+      "co_rf": "POR CONFIRMAR",
+      "co_rf_prev": null,
+      "co_rf_past": false,
+      "mrn": "—",
+      "fuente": "AMC",
+      "status": "mod",
+      "nota": "Arribo EC: — → 23 / 07:00 | Zarpe EC: POR CONFIRMAR → 23 / 20:00",
+      "arribo_prev": "—"
+    },
+    {
+      "id": 23,
       "wk": 42,
       "carrier": "CMA",
       "nave": "CMA CGM ALIAGA CMA",
@@ -507,7 +534,7 @@
       "nota": null
     },
     {
-      "id": 23,
+      "id": 24,
       "wk": 42,
       "carrier": "CMA",
       "nave": "CMA CGM IMAGINATION CMA",
@@ -530,7 +557,7 @@
       "nota": null
     },
     {
-      "id": 24,
+      "id": 25,
       "wk": 42,
       "carrier": "CMA",
       "nave": "CMA CGM LIBERTY CMA",
@@ -553,7 +580,7 @@
       "nota": null
     },
     {
-      "id": 25,
+      "id": 26,
       "wk": 42,
       "carrier": "XPD",
       "nave": "ECO MARIN 2642S",
@@ -576,7 +603,7 @@
       "nota": null
     },
     {
-      "id": 26,
+      "id": 27,
       "wk": 42,
       "carrier": "XPD",
       "nave": "ECO SIROCCO 2641N",
@@ -599,7 +626,7 @@
       "nota": null
     },
     {
-      "id": 27,
+      "id": 28,
       "wk": 42,
       "carrier": "ONE",
       "nave": "CONTI CONTESSA 0026W",
@@ -622,7 +649,7 @@
       "nota": null
     },
     {
-      "id": 28,
+      "id": 29,
       "wk": 42,
       "carrier": "ONE",
       "nave": "HSL NIKE 0016S",
@@ -645,36 +672,13 @@
       "nota": null
     },
     {
-      "id": 29,
+      "id": 30,
       "wk": 42,
       "carrier": "—",
       "nave": "Week # 43",
       "viaje": "19 DE OCTUBRE AL 25 DE OCTUBRE",
       "terminal": "—",
       "svc": "ACSA 1",
-      "dest": "China, Japón, México",
-      "arribo": "—",
-      "zarpe": "POR CONFIRMAR",
-      "zarpe_prev": null,
-      "co_dry": "POR CONFIRMAR",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "—",
-      "fuente": "AMC",
-      "status": "pend",
-      "nota": null
-    },
-    {
-      "id": 30,
-      "wk": 42,
-      "carrier": "—",
-      "nave": "ECO MARIN XPD",
-      "viaje": "368W5N",
-      "terminal": "Guayaquil",
-      "svc": "M2A",
       "dest": "China, Japón, México",
       "arribo": "—",
       "zarpe": "POR CONFIRMAR",
@@ -1082,10 +1086,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-10-14T07:35:58.423154",
+  "updated_at": "2026-10-14T12:42:19.747419",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-10-12T15:39:00.655475"
+  "last_changes_at": "2026-10-14T12:42:19.233439"
 }
