@@ -172,7 +172,7 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "12 / 14:18",
       "zarpe": "13 / 12:33",
-      "zarpe_prev": "13 / 08:00",
+      "zarpe_prev": null,
       "co_dry": "12 / 07:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -181,9 +181,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026HLCU0177",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 12 / 12:00 → 12 / 14:18 | Zarpe EC: 13 / 08:00 → 13 / 12:33",
-      "arribo_prev": "12 / 12:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 9,
@@ -288,7 +287,7 @@
       "dest": "SPOT CALL",
       "arribo": "14 / 22:00",
       "zarpe": "16 / 12:00",
-      "zarpe_prev": "16 / 17:00",
+      "zarpe_prev": null,
       "co_dry": "14 / 23:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -297,9 +296,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0209",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 15 / 02:00 → 14 / 22:00 | Zarpe EC: 16 / 17:00 → 16 / 12:00",
-      "arribo_prev": "15 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 14,
@@ -390,9 +388,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0203",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 16 / 22:00 → 16 / 16:00",
-      "arribo_prev": "16 / 22:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 18,
@@ -497,7 +494,7 @@
       "dest": "China, Japón, México",
       "arribo": "23 / 07:00",
       "zarpe": "23 / 20:00",
-      "zarpe_prev": "POR CONFIRMAR",
+      "zarpe_prev": null,
       "co_dry": "POR CONFIRMAR",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -506,9 +503,8 @@
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: — → 23 / 07:00 | Zarpe EC: POR CONFIRMAR → 23 / 20:00",
-      "arribo_prev": "—"
+      "status": "pend",
+      "nota": null
     },
     {
       "id": 23,
@@ -593,10 +589,10 @@
       "zarpe_prev": null,
       "co_dry": "Miércoles 14/10/2026 13:30",
       "co_dry_prev": null,
-      "co_dry_past": false,
+      "co_dry_past": true,
       "co_rf": "Miércoles 14/10/2026 13:30",
       "co_rf_prev": null,
-      "co_rf_past": false,
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
       "status": "ok",
@@ -674,6 +670,30 @@
     {
       "id": 30,
       "wk": 42,
+      "carrier": "ONE",
+      "nave": "SEASPAN BRAVO 0104W",
+      "viaje": "0104W",
+      "terminal": "Guayaquil (TPG)",
+      "svc": "AX3",
+      "dest": "Asia / Transpacífico",
+      "arribo": "Domingo 25/10/2026 6:00",
+      "zarpe": "Miércoles 28/10/2026 13:00",
+      "zarpe_prev": "Viernes 23/10/2026 20:00",
+      "co_dry": "Sábado 24/10/2026 18:00",
+      "co_dry_prev": "Lunes 19/10/2026 23:00",
+      "co_dry_past": false,
+      "co_rf": "Sábado 24/10/2026 18:00",
+      "co_rf_prev": "Lunes 19/10/2026 23:00",
+      "co_rf_past": false,
+      "mrn": "—",
+      "fuente": "ONE",
+      "status": "mod",
+      "nota": "Arribo EC: Martes 20/10/2026 11:00 → Domingo 25/10/2026 6:00 | Zarpe EC: Viernes 23/10/2026 20:00 → Miércoles 28/10/2026 13:00 | Cut Off DRY: Lunes 19/10/2026 23:00 → Sábado 24/10/2026 18:00 | Cut Off Reefer: Lunes 19/10/2026 23:00 → Sábado 24/10/2026 18:00",
+      "arribo_prev": "Martes 20/10/2026 11:00"
+    },
+    {
+      "id": 31,
+      "wk": 42,
       "carrier": "—",
       "nave": "Week # 43",
       "viaje": "19 DE OCTUBRE AL 25 DE OCTUBRE",
@@ -695,7 +715,7 @@
       "nota": null
     },
     {
-      "id": 31,
+      "id": 32,
       "wk": 42,
       "carrier": "—",
       "nave": "CMA CGM IMAGINATION CMA",
@@ -718,7 +738,7 @@
       "nota": null
     },
     {
-      "id": 32,
+      "id": 33,
       "wk": 42,
       "carrier": "—",
       "nave": "PLAZOS DOCUMENTALES",
@@ -741,7 +761,7 @@
       "nota": null
     },
     {
-      "id": 33,
+      "id": 34,
       "wk": 42,
       "carrier": "—",
       "nave": "EUROSAL SUR",
@@ -764,7 +784,7 @@
       "nota": null
     },
     {
-      "id": 34,
+      "id": 35,
       "wk": 42,
       "carrier": "—",
       "nave": "M2A",
@@ -787,7 +807,7 @@
       "nota": null
     },
     {
-      "id": 35,
+      "id": 36,
       "wk": 42,
       "carrier": "—",
       "nave": "AMERICAS XL SB",
@@ -810,7 +830,7 @@
       "nota": null
     },
     {
-      "id": 36,
+      "id": 37,
       "wk": 42,
       "carrier": "—",
       "nave": "AMERICAS XL SB\nWEEK 42: HSL NIKE AMX020S19",
@@ -833,7 +853,7 @@
       "nota": null
     },
     {
-      "id": 37,
+      "id": 38,
       "wk": 42,
       "carrier": "—",
       "nave": "AMERICAS XL NB",
@@ -856,7 +876,7 @@
       "nota": null
     },
     {
-      "id": 38,
+      "id": 39,
       "wk": 42,
       "carrier": "—",
       "nave": "MEDCAR POSORJA",
@@ -879,7 +899,7 @@
       "nota": null
     },
     {
-      "id": 39,
+      "id": 40,
       "wk": 42,
       "carrier": "—",
       "nave": "MEDCAR GUAYAQUIL",
@@ -902,7 +922,7 @@
       "nota": null
     },
     {
-      "id": 40,
+      "id": 41,
       "wk": 42,
       "carrier": "—",
       "nave": "EUROSAL NB",
@@ -925,7 +945,7 @@
       "nota": null
     },
     {
-      "id": 41,
+      "id": 42,
       "wk": 42,
       "carrier": "—",
       "nave": "ACSA 1",
@@ -948,7 +968,7 @@
       "nota": null
     },
     {
-      "id": 42,
+      "id": 43,
       "wk": 42,
       "carrier": "—",
       "nave": "NOTA IMPORTANTE:",
@@ -971,7 +991,7 @@
       "nota": null
     },
     {
-      "id": 43,
+      "id": 44,
       "wk": 42,
       "carrier": "—",
       "nave": "Por favor notar que se aplicarán los siguientes rubros en caso de envío y solicitudes de correcciones fuera de plazo:\nSolicitud de correcciones fuera de plazo $ 272",
@@ -994,7 +1014,7 @@
       "nota": null
     },
     {
-      "id": 44,
+      "id": 45,
       "wk": 42,
       "carrier": "—",
       "nave": "Considerar que en caso de no recibir su(s) Shipping instruction(s), la (s) unidad(es) no podrián ser considerada(s) para embarque.",
@@ -1017,7 +1037,7 @@
       "nota": null
     },
     {
-      "id": 45,
+      "id": 46,
       "wk": 42,
       "carrier": "ONE",
       "nave": "MATTHEW SCHULTE 0146N",
@@ -1032,29 +1052,6 @@
       "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Viernes 16/10/2026 9:00",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "—",
-      "fuente": "ONE",
-      "status": "ok",
-      "nota": null
-    },
-    {
-      "id": 46,
-      "wk": 42,
-      "carrier": "ONE",
-      "nave": "SEASPAN BRAVO 0104W",
-      "viaje": "0104W",
-      "terminal": "Guayaquil (TPG)",
-      "svc": "AX3",
-      "dest": "Asia / Transpacífico",
-      "arribo": "Martes 20/10/2026 11:00",
-      "zarpe": "Viernes 23/10/2026 20:00",
-      "zarpe_prev": null,
-      "co_dry": "Lunes 19/10/2026 23:00",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "Lunes 19/10/2026 23:00",
       "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
@@ -1086,10 +1083,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-10-14T12:42:19.747419",
+  "updated_at": "2026-10-14T16:08:41.268256",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-10-14T12:42:19.233439"
+  "last_changes_at": "2026-10-14T16:08:40.703365"
 }
