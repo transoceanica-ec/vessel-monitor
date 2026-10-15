@@ -193,9 +193,9 @@
       "terminal": "Guayaquil",
       "svc": "AMERICAS XL SB",
       "dest": "EEUU, Puerto Rico, Bahamas",
-      "arribo": "12 / 18:00",
-      "zarpe": "13 / 23:00",
-      "zarpe_prev": null,
+      "arribo": "12 / 18:50",
+      "zarpe": "13 / 15:15",
+      "zarpe_prev": "13 / 23:00",
       "co_dry": "12 / 11:00 DRY\n12 / 15:00 REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -204,8 +204,9 @@
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0048",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 12 / 18:00 → 12 / 18:50 | Zarpe EC: 13 / 23:00 → 13 / 15:15",
+      "arribo_prev": "12 / 18:00"
     },
     {
       "id": 10,
@@ -440,28 +441,53 @@
     {
       "id": 20,
       "wk": 42,
-      "carrier": "—",
+      "carrier": "ONE",
       "nave": "MARTINIQUE ONE",
       "viaje": "AMX040S19",
       "terminal": "Guayaquil",
       "svc": "AMERICAS XL SB",
       "dest": "EEUU, Puerto Rico, Bahamas",
-      "arribo": "22 / 02:00",
-      "zarpe": "23 / 12:00",
-      "zarpe_prev": null,
-      "co_dry": "POR CONFIRMAR",
-      "co_dry_prev": null,
+      "arribo": "21 / 19:00",
+      "zarpe": "22 / 20:00",
+      "zarpe_prev": "23 / 12:00",
+      "co_dry": "21 / 17:00\nDRY & REEFER",
+      "co_dry_prev": "POR CONFIRMAR",
       "co_dry_past": false,
-      "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
+      "co_rf": "21 / 17:00\nDRY & REEFER",
+      "co_rf_prev": "POR CONFIRMAR",
       "co_rf_past": false,
-      "mrn": "—",
+      "mrn": "CEC2026ONEU0051",
       "fuente": "AMC",
-      "status": "pend",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 22 / 02:00 → 21 / 19:00 | Zarpe EC: 23 / 12:00 → 22 / 20:00 | Cut Off DRY: POR CONFIRMAR → 21 / 17:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 21 / 17:00\nDRY & REEFER",
+      "arribo_prev": "22 / 02:00"
     },
     {
       "id": 21,
+      "wk": 42,
+      "carrier": "CMA",
+      "nave": "CMA CGM IMAGINATION CMA",
+      "viaje": "0DVQPN1MA",
+      "terminal": "Posorja (DPW)",
+      "svc": "MEDCAR",
+      "dest": "Mediterráneo / Caribe",
+      "arribo": "22 / 10:00",
+      "zarpe": "22 / 23:00",
+      "zarpe_prev": "POR CONFIRMAR",
+      "co_dry": "BLANK SAILING",
+      "co_dry_prev": "BLANK SAILING",
+      "co_dry_past": false,
+      "co_rf": "BLANK SAILING",
+      "co_rf_prev": "BLANK SAILING",
+      "co_rf_past": false,
+      "mrn": "CEC2026CMAU0206",
+      "fuente": "AMC",
+      "status": "mod",
+      "nota": "Arribo EC: — → 23 / 02:00 | Zarpe EC: POR CONFIRMAR → 24 / 23:00 | Cut Off DRY: BLANK SAILING → 23 / 15:00\nDRY & REEFER | Cut Off Reefer: BLANK SAILING → 23 / 15:00\nDRY & REEFER",
+      "arribo_prev": "—"
+    },
+    {
+      "id": 22,
       "wk": 42,
       "carrier": "—",
       "nave": "ISTANBUL EXPRESS HLC",
@@ -484,7 +510,7 @@
       "nota": null
     },
     {
-      "id": 22,
+      "id": 23,
       "wk": 42,
       "carrier": "—",
       "nave": "ECO MARIN XPD",
@@ -507,7 +533,7 @@
       "nota": null
     },
     {
-      "id": 23,
+      "id": 24,
       "wk": 42,
       "carrier": "CMA",
       "nave": "CMA CGM ALIAGA CMA",
@@ -530,7 +556,7 @@
       "nota": null
     },
     {
-      "id": 24,
+      "id": 25,
       "wk": 42,
       "carrier": "CMA",
       "nave": "CMA CGM IMAGINATION CMA",
@@ -540,20 +566,21 @@
       "dest": "Mediterráneo / Caribe",
       "arribo": "23 / 02:00",
       "zarpe": "24 / 23:00",
-      "zarpe_prev": null,
+      "zarpe_prev": "POR CONFIRMAR",
       "co_dry": "23 / 15:00\nDRY & REEFER",
-      "co_dry_prev": null,
+      "co_dry_prev": "BLANK SAILING",
       "co_dry_past": false,
       "co_rf": "23 / 15:00\nDRY & REEFER",
-      "co_rf_prev": null,
+      "co_rf_prev": "BLANK SAILING",
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0207",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: — → 23 / 02:00 | Zarpe EC: POR CONFIRMAR → 24 / 23:00 | Cut Off DRY: BLANK SAILING → 23 / 15:00\nDRY & REEFER | Cut Off Reefer: BLANK SAILING → 23 / 15:00\nDRY & REEFER",
+      "arribo_prev": "—"
     },
     {
-      "id": 25,
+      "id": 26,
       "wk": 42,
       "carrier": "CMA",
       "nave": "CMA CGM LIBERTY CMA",
@@ -576,7 +603,7 @@
       "nota": null
     },
     {
-      "id": 26,
+      "id": 27,
       "wk": 42,
       "carrier": "XPD",
       "nave": "ECO MARIN 2642S",
@@ -599,7 +626,7 @@
       "nota": null
     },
     {
-      "id": 27,
+      "id": 28,
       "wk": 42,
       "carrier": "XPD",
       "nave": "ECO SIROCCO 2641N",
@@ -622,7 +649,7 @@
       "nota": null
     },
     {
-      "id": 28,
+      "id": 29,
       "wk": 42,
       "carrier": "ONE",
       "nave": "CONTI CONTESSA 0026W",
@@ -645,7 +672,7 @@
       "nota": null
     },
     {
-      "id": 29,
+      "id": 30,
       "wk": 42,
       "carrier": "ONE",
       "nave": "HSL NIKE 0016S",
@@ -668,7 +695,7 @@
       "nota": null
     },
     {
-      "id": 30,
+      "id": 31,
       "wk": 42,
       "carrier": "ONE",
       "nave": "SEASPAN BRAVO 0104W",
@@ -691,7 +718,7 @@
       "nota": null
     },
     {
-      "id": 31,
+      "id": 32,
       "wk": 42,
       "carrier": "—",
       "nave": "Week # 43",
@@ -706,29 +733,6 @@
       "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "—",
-      "fuente": "AMC",
-      "status": "pend",
-      "nota": null
-    },
-    {
-      "id": 32,
-      "wk": 42,
-      "carrier": "—",
-      "nave": "CMA CGM IMAGINATION CMA",
-      "viaje": "0DVQPN1MA",
-      "terminal": "Posorja (DPW)",
-      "svc": "MEDCAR",
-      "dest": "Mediterráneo / Caribe",
-      "arribo": "—",
-      "zarpe": "POR CONFIRMAR",
-      "zarpe_prev": null,
-      "co_dry": "BLANK SAILING",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "BLANK SAILING",
       "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
@@ -1082,10 +1086,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-10-14T19:12:13.054358",
+  "updated_at": "2026-10-15T00:25:36.570924",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-10-14T16:08:40.703365"
+  "last_changes_at": "2026-10-15T00:25:36.280766"
 }
