@@ -195,7 +195,7 @@
       "dest": "EEUU, Puerto Rico, Bahamas",
       "arribo": "12 / 18:50",
       "zarpe": "13 / 15:15",
-      "zarpe_prev": "13 / 23:00",
+      "zarpe_prev": null,
       "co_dry": "12 / 11:00 DRY\n12 / 15:00 REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -204,9 +204,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0048",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 12 / 18:00 → 12 / 18:50 | Zarpe EC: 13 / 23:00 → 13 / 15:15",
-      "arribo_prev": "12 / 18:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 10,
@@ -449,18 +448,17 @@
       "dest": "EEUU, Puerto Rico, Bahamas",
       "arribo": "21 / 19:00",
       "zarpe": "22 / 20:00",
-      "zarpe_prev": "23 / 12:00",
+      "zarpe_prev": null,
       "co_dry": "21 / 17:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "21 / 17:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0051",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 22 / 02:00 → 21 / 19:00 | Zarpe EC: 23 / 12:00 → 22 / 20:00 | Cut Off DRY: POR CONFIRMAR → 21 / 17:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 21 / 17:00\nDRY & REEFER",
-      "arribo_prev": "22 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 21,
@@ -473,18 +471,17 @@
       "dest": "Mediterráneo / Caribe",
       "arribo": "22 / 10:00",
       "zarpe": "22 / 23:00",
-      "zarpe_prev": "POR CONFIRMAR",
+      "zarpe_prev": null,
       "co_dry": "BLANK SAILING",
-      "co_dry_prev": "BLANK SAILING",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "BLANK SAILING",
-      "co_rf_prev": "BLANK SAILING",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0206",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: — → 23 / 02:00 | Zarpe EC: POR CONFIRMAR → 24 / 23:00 | Cut Off DRY: BLANK SAILING → 23 / 15:00\nDRY & REEFER | Cut Off Reefer: BLANK SAILING → 23 / 15:00\nDRY & REEFER",
-      "arribo_prev": "—"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 22,
@@ -566,18 +563,17 @@
       "dest": "Mediterráneo / Caribe",
       "arribo": "23 / 02:00",
       "zarpe": "24 / 23:00",
-      "zarpe_prev": "POR CONFIRMAR",
+      "zarpe_prev": null,
       "co_dry": "23 / 15:00\nDRY & REEFER",
-      "co_dry_prev": "BLANK SAILING",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "23 / 15:00\nDRY & REEFER",
-      "co_rf_prev": "BLANK SAILING",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0207",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: — → 23 / 02:00 | Zarpe EC: POR CONFIRMAR → 24 / 23:00 | Cut Off DRY: BLANK SAILING → 23 / 15:00\nDRY & REEFER | Cut Off Reefer: BLANK SAILING → 23 / 15:00\nDRY & REEFER",
-      "arribo_prev": "—"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 26,
@@ -639,10 +635,10 @@
       "zarpe_prev": null,
       "co_dry": "Jueves 15/10/2026 0:30",
       "co_dry_prev": null,
-      "co_dry_past": false,
+      "co_dry_past": true,
       "co_rf": "Jueves 15/10/2026 0:30",
       "co_rf_prev": null,
-      "co_rf_past": false,
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
       "status": "ok",
@@ -1086,7 +1082,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-10-15T00:25:36.570924",
+  "updated_at": "2026-10-15T05:37:13.269308",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
