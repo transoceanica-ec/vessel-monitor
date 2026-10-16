@@ -1052,7 +1052,7 @@
       "co_dry_past": true,
       "co_rf": "Viernes 16/10/2026 9:00",
       "co_rf_prev": null,
-      "co_rf_past": false,
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
       "status": "ok",
@@ -1082,7 +1082,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-10-16T05:23:49.997284",
+  "updated_at": "2026-10-16T10:04:53.874577",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
