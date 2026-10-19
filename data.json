@@ -129,10 +129,10 @@
       "zarpe_prev": null,
       "co_dry": "Lunes 19/10/2026 12:00",
       "co_dry_prev": null,
-      "co_dry_past": false,
+      "co_dry_past": true,
       "co_rf": "Lunes 19/10/2026 12:00",
       "co_rf_prev": null,
-      "co_rf_past": false,
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
       "status": "ok",
@@ -1059,7 +1059,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-10-19T11:03:11.349587",
+  "updated_at": "2026-10-19T16:18:34.101403",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
