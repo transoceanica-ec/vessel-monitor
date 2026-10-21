@@ -538,19 +538,20 @@
       "terminal": "Guayaquil (CONTECON)",
       "svc": "GPX-SUR",
       "dest": "Asia / Transpacífico Sur",
-      "arribo": "Jueves 22/10/2026 01:30",
-      "zarpe": "Jueves 22/10/2026 12:00",
-      "zarpe_prev": null,
-      "co_dry": "Miércoles 21/10/2026 13:30",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "Miércoles 21/10/2026 13:30",
-      "co_rf_prev": null,
-      "co_rf_past": false,
+      "arribo": "Jueves 22/10/2026 04:00",
+      "zarpe": "Jueves 22/10/2026 13:00",
+      "zarpe_prev": "Jueves 22/10/2026 12:00",
+      "co_dry": "Miércoles 21/10/2026 16:00",
+      "co_dry_prev": "Miércoles 21/10/2026 13:30",
+      "co_dry_past": true,
+      "co_rf": "Miércoles 21/10/2026 16:00",
+      "co_rf_prev": "Miércoles 21/10/2026 13:30",
+      "co_rf_past": true,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: Jueves 22/10/2026 01:30 → Jueves 22/10/2026 04:00 | Zarpe EC: Jueves 22/10/2026 12:00 → Jueves 22/10/2026 13:00 | Cut Off DRY: Miércoles 21/10/2026 13:30 → Miércoles 21/10/2026 16:00 | Cut Off Reefer: Miércoles 21/10/2026 13:30 → Miércoles 21/10/2026 16:00",
+      "arribo_prev": "Jueves 22/10/2026 01:30"
     },
     {
       "id": 25,
@@ -589,7 +590,7 @@
       "zarpe_prev": null,
       "co_dry": "Miércoles 21/10/2026 13:00",
       "co_dry_prev": null,
-      "co_dry_past": false,
+      "co_dry_past": true,
       "co_rf": "Miércoles 21/10/2026 17:00",
       "co_rf_prev": null,
       "co_rf_past": false,
@@ -1013,10 +1014,10 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-21T12:48:00.621741",
+  "updated_at": "2026-10-21T16:04:07.296362",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-10-20T00:35:06.068779"
+  "last_changes_at": "2026-10-21T16:04:06.821553"
 }
