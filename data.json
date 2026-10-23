@@ -934,7 +934,7 @@
       "zarpe_prev": null,
       "co_dry": "Jueves 22/10/2026 19:00",
       "co_dry_prev": null,
-      "co_dry_past": false,
+      "co_dry_past": true,
       "co_rf": "Jueves 22/10/2026 23:00",
       "co_rf_prev": null,
       "co_rf_past": false,
@@ -1013,7 +1013,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-22T17:53:31.001134",
+  "updated_at": "2026-10-22T20:07:03.191971",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
