@@ -517,18 +517,17 @@
       "dest": "Asia / Transpacífico Sur",
       "arribo": "Miércoles 28/10/2026 18:00",
       "zarpe": "Jueves 29/10/2026 04:00",
-      "zarpe_prev": "Jueves 29/10/2026 08:00",
+      "zarpe_prev": null,
       "co_dry": "Miércoles 28/10/2026 6:00",
-      "co_dry_prev": "Miércoles 28/10/2026 11:00",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Miércoles 28/10/2026 6:00",
-      "co_rf_prev": "Miércoles 28/10/2026 11:00",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Miércoles 28/10/2026 23:00 → Miércoles 28/10/2026 18:00 | Zarpe EC: Jueves 29/10/2026 08:00 → Jueves 29/10/2026 04:00 | Cut Off DRY: Miércoles 28/10/2026 11:00 → Miércoles 28/10/2026 6:00 | Cut Off Reefer: Miércoles 28/10/2026 11:00 → Miércoles 28/10/2026 6:00",
-      "arribo_prev": "Miércoles 28/10/2026 23:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 24,
@@ -564,18 +563,17 @@
       "dest": "Asia / Transpacífico",
       "arribo": "Domingo 01/11/2026 23:00",
       "zarpe": "Miércoles 04/11/2026 8:00",
-      "zarpe_prev": "Jueves 12/11/2026 1:00",
+      "zarpe_prev": null,
       "co_dry": "Domingo 01/11/2026 10:00",
-      "co_dry_prev": "Lunes 09/11/2026 12:00",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Domingo 01/11/2026 10:00",
-      "co_rf_prev": "Lunes 09/11/2026 12:00",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Domingo 08/11/2026 19:00 → Domingo 01/11/2026 23:00 | Zarpe EC: Jueves 12/11/2026 1:00 → Miércoles 04/11/2026 8:00 | Cut Off DRY: Lunes 09/11/2026 12:00 → Domingo 01/11/2026 10:00 | Cut Off Reefer: Lunes 09/11/2026 12:00 → Domingo 01/11/2026 10:00",
-      "arribo_prev": "Domingo 08/11/2026 19:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 26,
@@ -992,7 +990,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-27T16:38:56.002601",
+  "updated_at": "2026-10-27T19:50:57.277090",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
