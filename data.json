@@ -979,16 +979,15 @@
       "zarpe": "Sábado 31/10/2026 15:00",
       "zarpe_prev": null,
       "co_dry": "Viernes 30/10/2026 06:00",
-      "co_dry_prev": "Viernes 30/10/2026 03:00",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "Viernes 30/10/2026 10:00",
-      "co_rf_prev": "Viernes 30/10/2026 7:00",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "ONE",
-      "status": "mod",
-      "nota": "Arribo EC: Viernes 30/10/2026 15:00 → Viernes 30/10/2026 18:00 | Cut Off DRY: Viernes 30/10/2026 03:00 → Viernes 30/10/2026 06:00 | Cut Off Reefer: Viernes 30/10/2026 7:00 → Viernes 30/10/2026 10:00",
-      "arribo_prev": "Viernes 30/10/2026 15:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 44,
@@ -1060,7 +1059,7 @@
       "nota": "Blank Sailing."
     }
   ],
-  "updated_at": "2026-10-28T18:45:15.855829",
+  "updated_at": "2026-10-28T22:41:52.638947",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
