@@ -12,16 +12,16 @@
       "arribo": "02 / 07:00",
       "zarpe": "03 / 10:00",
       "zarpe_prev": null,
-      "co_dry": "02 / 07:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "02 / 07:00\nDRY & REEFER",
+      "co_dry_prev": "02 / 07:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "02 / 07:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "02 / 07:00\nDRY & REEFER",
+      "co_rf_prev": "02 / 07:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0213",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 02 / 07:00\nDRY&REEFER → 02 / 07:00\nDRY & REEFER | Cut Off Reefer: 02 / 07:00\nDRY&REEFER → 02 / 07:00\nDRY & REEFER"
     },
     {
       "id": 2,
@@ -35,16 +35,16 @@
       "arribo": "05 / 04:00",
       "zarpe": "05 / 18:00",
       "zarpe_prev": null,
-      "co_dry": "04 / 19:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "04 / 19:00\nDRY & REEFER",
+      "co_dry_prev": "06 / 15:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "04 / 19:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "04 / 19:00\nDRY & REEFER",
+      "co_rf_prev": "06 / 15:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0214",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER | Cut Off Reefer: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER"
     },
     {
       "id": 3,
@@ -53,21 +53,21 @@
       "nave": "ECO MARIN XPD",
       "viaje": "372W5N",
       "terminal": "Guayaquil",
-      "svc": "EUROSAL SB",
-      "dest": "España, Francia, Italia, Mediterráneo Sur",
+      "svc": "M2A",
+      "dest": "China, Japón, México",
       "arribo": "05 / 07:00",
       "zarpe": "05 / 20:00",
       "zarpe_prev": null,
-      "co_dry": "05 / 00:30\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "05 / 00:30\nDRY & REEFER",
+      "co_dry_prev": "05 / 00:30\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "05 / 00:30\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "05 / 00:30\nDRY & REEFER",
+      "co_rf_prev": "05 / 00:30\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC202678120645",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 05 / 00:30\nDRY&REEFER → 05 / 00:30\nDRY & REEFER | Cut Off Reefer: 05 / 00:30\nDRY&REEFER → 05 / 00:30\nDRY & REEFER"
     },
     {
       "id": 4,
@@ -81,16 +81,16 @@
       "arribo": "04 / 02:30",
       "zarpe": "05 / 21:00",
       "zarpe_prev": null,
-      "co_dry": "03 / 17:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "03 / 17:00\nDRY & REEFER",
+      "co_dry_prev": "03 / 17:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "03 / 17:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "03 / 17:00\nDRY & REEFER",
+      "co_rf_prev": "03 / 17:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026COSU0056",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 03 / 17:00\nDRY&REEFER → 03 / 17:00\nDRY & REEFER | Cut Off Reefer: 03 / 17:00\nDRY&REEFER → 03 / 17:00\nDRY & REEFER"
     },
     {
       "id": 5,
@@ -104,16 +104,16 @@
       "arribo": "05 / 15:00",
       "zarpe": "06 / 17.00",
       "zarpe_prev": null,
-      "co_dry": "05 / 09:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "05 / 09:00\nDRY & REEFER",
+      "co_dry_prev": "05 / 09:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "05 / 09:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "05 / 09:00\nDRY & REEFER",
+      "co_rf_prev": "05 / 09:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0216",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 05 / 09:00\nDRY&REEFER → 05 / 09:00\nDRY & REEFER | Cut Off Reefer: 05 / 09:00\nDRY&REEFER → 05 / 09:00\nDRY & REEFER"
     },
     {
       "id": 6,
@@ -127,16 +127,16 @@
       "arribo": "06 / 10:00",
       "zarpe": "07 / 15:00",
       "zarpe_prev": null,
-      "co_dry": "05 / 23:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "05 / 23:00\nDRY & REEFER",
+      "co_dry_prev": "05 / 23:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "05 / 23:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "05 / 23:00\nDRY & REEFER",
+      "co_rf_prev": "05 / 23:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0056",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 05 / 23:00\nDRY&REEFER → 05 / 23:00\nDRY & REEFER | Cut Off Reefer: 05 / 23:00\nDRY&REEFER → 05 / 23:00\nDRY & REEFER"
     },
     {
       "id": 7,
@@ -150,16 +150,16 @@
       "arribo": "06 / 02:00",
       "zarpe": "07 / 23:00",
       "zarpe_prev": null,
-      "co_dry": "06 / 15:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "06 / 15:00\nDRY & REEFER",
+      "co_dry_prev": "06 / 15:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "06 / 15:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "06 / 15:00\nDRY & REEFER",
+      "co_rf_prev": "06 / 15:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0215",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER | Cut Off Reefer: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER"
     },
     {
       "id": 8,
@@ -173,16 +173,16 @@
       "arribo": "06 / 10:00",
       "zarpe": "08 / 02:00",
       "zarpe_prev": null,
-      "co_dry": "05 / 02:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "05 / 02:00\nDRY & REEFER",
+      "co_dry_prev": "05 / 02:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "05 / 02:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "05 / 02:00\nDRY & REEFER",
+      "co_rf_prev": "05 / 02:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026COSU0054",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 05 / 02:00\nDRY&REEFER → 05 / 02:00\nDRY & REEFER | Cut Off Reefer: 05 / 02:00\nDRY&REEFER → 05 / 02:00\nDRY & REEFER"
     },
     {
       "id": 9,
@@ -191,21 +191,21 @@
       "nave": "CSCL NEPTUNE CMA",
       "viaje": "0MH32W1MA",
       "terminal": "Posorja (DPW)",
-      "svc": "EUROSAL NB",
-      "dest": "Bélgica, Bilbao, Rotterdam, Norte Europa",
+      "svc": "ACSA 1",
+      "dest": "China, Japón, México",
       "arribo": "06 / 22:00",
       "zarpe": "08 / 07:00",
       "zarpe_prev": null,
-      "co_dry": "06 / 23:00\nDRY&REEFER",
-      "co_dry_prev": null,
+      "co_dry": "06 / 23:00\nDRY & REEFER",
+      "co_dry_prev": "06 / 23:00\nDRY&REEFER",
       "co_dry_past": false,
-      "co_rf": "06 / 23:00\nDRY&REEFER",
-      "co_rf_prev": null,
+      "co_rf": "06 / 23:00\nDRY & REEFER",
+      "co_rf_prev": "06 / 23:00\nDRY&REEFER",
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0220",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: 06 / 23:00\nDRY&REEFER → 06 / 23:00\nDRY & REEFER | Cut Off Reefer: 06 / 23:00\nDRY&REEFER → 06 / 23:00\nDRY & REEFER"
     },
     {
       "id": 10,
@@ -260,8 +260,8 @@
       "nave": "ECO SIROCCO XPD",
       "viaje": "374W5N",
       "terminal": "Guayaquil",
-      "svc": "EUROSAL SB",
-      "dest": "España, Francia, Italia, Mediterráneo Sur",
+      "svc": "M2A",
+      "dest": "China, Japón, México",
       "arribo": "12 / 07:00",
       "zarpe": "12 / 20:00",
       "zarpe_prev": null,
@@ -380,16 +380,16 @@
       "arribo": "—",
       "zarpe": "POR CONFIRMAR",
       "zarpe_prev": null,
-      "co_dry": "Blank sailing",
-      "co_dry_prev": null,
+      "co_dry": "BLANK SAILING",
+      "co_dry_prev": "Blank sailing",
       "co_dry_past": false,
-      "co_rf": "Blank sailing",
-      "co_rf_prev": null,
+      "co_rf": "BLANK SAILING",
+      "co_rf_prev": "Blank sailing",
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "AMC",
-      "status": "pend",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: Blank sailing → BLANK SAILING | Cut Off Reefer: Blank sailing → BLANK SAILING"
     },
     {
       "id": 18,
@@ -398,8 +398,8 @@
       "nave": "Week # 46",
       "viaje": "09 DE NOVIEMBRE AL 15 DE NOVIEMBRE",
       "terminal": "—",
-      "svc": "EUROSAL NB",
-      "dest": "Bélgica, Bilbao, Rotterdam, Norte Europa",
+      "svc": "ACSA 1",
+      "dest": "China, Japón, México",
       "arribo": "—",
       "zarpe": "POR CONFIRMAR",
       "zarpe_prev": null,
@@ -533,29 +533,6 @@
       "id": 24,
       "wk": 45,
       "carrier": "—",
-      "nave": "AMERICAS XL SB\nWEEK 42: HSL NIKE AMX020S19",
-      "viaje": "",
-      "terminal": "Proforma Sin Declaración",
-      "svc": "ACSA 1",
-      "dest": "China, Japón, México",
-      "arribo": "—",
-      "zarpe": "POR CONFIRMAR",
-      "zarpe_prev": null,
-      "co_dry": "MARTES 11:00 AM",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "MARTES 11:00 AM",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "—",
-      "fuente": "AMC",
-      "status": "pend",
-      "nota": null
-    },
-    {
-      "id": 25,
-      "wk": 45,
-      "carrier": "—",
       "nave": "AMERICAS XL NB",
       "viaje": "",
       "terminal": "Proforma Sin Declaración",
@@ -576,7 +553,7 @@
       "nota": null
     },
     {
-      "id": 26,
+      "id": 25,
       "wk": 45,
       "carrier": "—",
       "nave": "MEDCAR POSORJA",
@@ -599,7 +576,7 @@
       "nota": null
     },
     {
-      "id": 27,
+      "id": 26,
       "wk": 45,
       "carrier": "—",
       "nave": "MEDCAR GUAYAQUIL",
@@ -622,7 +599,7 @@
       "nota": null
     },
     {
-      "id": 28,
+      "id": 27,
       "wk": 45,
       "carrier": "—",
       "nave": "EUROSAL NB",
@@ -645,7 +622,7 @@
       "nota": null
     },
     {
-      "id": 29,
+      "id": 28,
       "wk": 45,
       "carrier": "—",
       "nave": "ACSA 1",
@@ -668,7 +645,7 @@
       "nota": null
     },
     {
-      "id": 30,
+      "id": 29,
       "wk": 45,
       "carrier": "—",
       "nave": "NOTA IMPORTANTE:",
@@ -691,7 +668,7 @@
       "nota": null
     },
     {
-      "id": 31,
+      "id": 30,
       "wk": 45,
       "carrier": "—",
       "nave": "Por favor notar que se aplicarán los siguientes rubros en caso de envío y solicitudes de correcciones fuera de plazo:\nSolicitud de correcciones fuera de plazo $ 272",
@@ -714,7 +691,7 @@
       "nota": null
     },
     {
-      "id": 32,
+      "id": 31,
       "wk": 45,
       "carrier": "—",
       "nave": "Considerar que en caso de no recibir su(s) Shipping instruction(s), la (s) unidad(es) no podrián ser considerada(s) para embarque.",
@@ -737,10 +714,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-03T13:52:56.726076",
+  "updated_at": "2026-11-03T18:49:44.523792",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-11-02T16:10:37.765474"
+  "last_changes_at": "2026-11-03T18:49:44.243508"
 }
