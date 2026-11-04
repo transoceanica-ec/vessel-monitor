@@ -13,15 +13,15 @@
       "zarpe": "03 / 10:00",
       "zarpe_prev": null,
       "co_dry": "02 / 07:00\nDRY & REEFER",
-      "co_dry_prev": "02 / 07:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "02 / 07:00\nDRY & REEFER",
-      "co_rf_prev": "02 / 07:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0213",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 02 / 07:00\nDRY&REEFER → 02 / 07:00\nDRY & REEFER | Cut Off Reefer: 02 / 07:00\nDRY&REEFER → 02 / 07:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 2,
@@ -36,15 +36,15 @@
       "zarpe": "05 / 18:00",
       "zarpe_prev": null,
       "co_dry": "04 / 19:00\nDRY & REEFER",
-      "co_dry_prev": "06 / 15:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "04 / 19:00\nDRY & REEFER",
-      "co_rf_prev": "06 / 15:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0214",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER | Cut Off Reefer: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 3,
@@ -59,15 +59,15 @@
       "zarpe": "05 / 20:00",
       "zarpe_prev": null,
       "co_dry": "05 / 00:30\nDRY & REEFER",
-      "co_dry_prev": "05 / 00:30\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "05 / 00:30\nDRY & REEFER",
-      "co_rf_prev": "05 / 00:30\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC202678120645",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 05 / 00:30\nDRY&REEFER → 05 / 00:30\nDRY & REEFER | Cut Off Reefer: 05 / 00:30\nDRY&REEFER → 05 / 00:30\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 4,
@@ -82,15 +82,15 @@
       "zarpe": "05 / 21:00",
       "zarpe_prev": null,
       "co_dry": "03 / 17:00\nDRY & REEFER",
-      "co_dry_prev": "03 / 17:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "03 / 17:00\nDRY & REEFER",
-      "co_rf_prev": "03 / 17:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0056",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 03 / 17:00\nDRY&REEFER → 03 / 17:00\nDRY & REEFER | Cut Off Reefer: 03 / 17:00\nDRY&REEFER → 03 / 17:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 5,
@@ -105,15 +105,15 @@
       "zarpe": "06 / 17.00",
       "zarpe_prev": null,
       "co_dry": "05 / 09:00\nDRY & REEFER",
-      "co_dry_prev": "05 / 09:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "05 / 09:00\nDRY & REEFER",
-      "co_rf_prev": "05 / 09:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0216",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 05 / 09:00\nDRY&REEFER → 05 / 09:00\nDRY & REEFER | Cut Off Reefer: 05 / 09:00\nDRY&REEFER → 05 / 09:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 6,
@@ -128,15 +128,15 @@
       "zarpe": "07 / 15:00",
       "zarpe_prev": null,
       "co_dry": "05 / 23:00\nDRY & REEFER",
-      "co_dry_prev": "05 / 23:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "05 / 23:00\nDRY & REEFER",
-      "co_rf_prev": "05 / 23:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0056",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 05 / 23:00\nDRY&REEFER → 05 / 23:00\nDRY & REEFER | Cut Off Reefer: 05 / 23:00\nDRY&REEFER → 05 / 23:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 7,
@@ -151,15 +151,15 @@
       "zarpe": "07 / 23:00",
       "zarpe_prev": null,
       "co_dry": "06 / 15:00\nDRY & REEFER",
-      "co_dry_prev": "06 / 15:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "06 / 15:00\nDRY & REEFER",
-      "co_rf_prev": "06 / 15:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0215",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER | Cut Off Reefer: 06 / 15:00\nDRY&REEFER → 06 / 15:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 8,
@@ -174,15 +174,15 @@
       "zarpe": "08 / 02:00",
       "zarpe_prev": null,
       "co_dry": "05 / 02:00\nDRY & REEFER",
-      "co_dry_prev": "05 / 02:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "05 / 02:00\nDRY & REEFER",
-      "co_rf_prev": "05 / 02:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0054",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 05 / 02:00\nDRY&REEFER → 05 / 02:00\nDRY & REEFER | Cut Off Reefer: 05 / 02:00\nDRY&REEFER → 05 / 02:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 9,
@@ -197,15 +197,15 @@
       "zarpe": "08 / 07:00",
       "zarpe_prev": null,
       "co_dry": "06 / 23:00\nDRY & REEFER",
-      "co_dry_prev": "06 / 23:00\nDRY&REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "06 / 23:00\nDRY & REEFER",
-      "co_rf_prev": "06 / 23:00\nDRY&REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0220",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 06 / 23:00\nDRY&REEFER → 06 / 23:00\nDRY & REEFER | Cut Off Reefer: 06 / 23:00\nDRY&REEFER → 06 / 23:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 10,
@@ -381,15 +381,15 @@
       "zarpe": "POR CONFIRMAR",
       "zarpe_prev": null,
       "co_dry": "BLANK SAILING",
-      "co_dry_prev": "Blank sailing",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "BLANK SAILING",
-      "co_rf_prev": "Blank sailing",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: Blank sailing → BLANK SAILING | Cut Off Reefer: Blank sailing → BLANK SAILING"
+      "status": "pend",
+      "nota": null
     },
     {
       "id": 18,
@@ -714,7 +714,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-03T18:49:44.523792",
+  "updated_at": "2026-11-03T23:07:46.732462",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
