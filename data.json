@@ -11,7 +11,7 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "09 / 10:24",
       "zarpe": "10 / 21:12",
-      "zarpe_prev": "10 / 04:00",
+      "zarpe_prev": null,
       "co_dry": "09 / 07:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -20,9 +20,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026HLCU0194",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 09 / 11:00 → 09 / 10:24 | Zarpe EC: 10 / 04:00 → 10 / 21:12",
-      "arribo_prev": "09 / 11:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 2,
@@ -104,7 +103,7 @@
       "dest": "EEUU, Puerto Rico, Bahamas",
       "arribo": "12 / 02:18",
       "zarpe": "13 / 05:13",
-      "zarpe_prev": "13 / 12:00",
+      "zarpe_prev": null,
       "co_dry": "11 / 19:00 DRY\n11 / 23:00 REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -113,9 +112,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026COSU0059",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 12 / 02:00 → 12 / 02:18 | Zarpe EC: 13 / 12:00 → 13 / 05:13",
-      "arribo_prev": "12 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 6,
@@ -174,7 +172,7 @@
       "dest": "China, Japón, México",
       "arribo": "13 / 17:00",
       "zarpe": "15 / 15:00",
-      "zarpe_prev": "15 / 07:00",
+      "zarpe_prev": null,
       "co_dry": "13 / 23:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -183,9 +181,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0217",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 13 / 22:00 → 13 / 17:00 | Zarpe EC: 15 / 07:00 → 15 / 15:00",
-      "arribo_prev": "13 / 22:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 9,
@@ -198,18 +195,17 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "16 / 17:00",
       "zarpe": "17 / 12:00",
-      "zarpe_prev": "17 / 08:00",
+      "zarpe_prev": null,
       "co_dry": "16 / 08:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "16 / 08:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0061",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 16 / 15:00 → 16 / 17:00 | Zarpe EC: 17 / 08:00 → 17 / 12:00 | Cut Off DRY: POR CONFIRMAR → 16 / 08:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 16 / 08:00\nDRY & REEFER",
-      "arribo_prev": "16 / 15:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 10,
@@ -316,15 +312,15 @@
       "zarpe": "20 / 17:00",
       "zarpe_prev": null,
       "co_dry": "19 / 07:00\nDRY & REEFER",
-      "co_dry_prev": "18 / 07:00\nDRY & REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "19 / 07:00\nDRY & REEFER",
-      "co_rf_prev": "18 / 07:00\nDRY & REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0225",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 18 / 07:00\nDRY & REEFER → 19 / 07:00\nDRY & REEFER | Cut Off Reefer: 18 / 07:00\nDRY & REEFER → 19 / 07:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 15,
@@ -369,9 +365,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0226",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 20 / 22:00 → 20 / 18:00",
-      "arribo_prev": "20 / 22:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 17,
@@ -384,18 +379,17 @@
       "dest": "EEUU, Puerto Rico, México",
       "arribo": "22 / 00:30",
       "zarpe": "22 / 18:00",
-      "zarpe_prev": "21 / 15:00",
+      "zarpe_prev": null,
       "co_dry": "21 / 12:00\nDRY & REEFER",
-      "co_dry_prev": "19 / 19:00 DRY\n19 / 23:00 REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "21 / 12:00\nDRY & REEFER",
-      "co_rf_prev": "19 / 19:00 DRY\n19 / 23:00 REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0222",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 20 / 12:00 → 22 / 00:30 | Zarpe EC: 21 / 15:00 → 22 / 18:00 | Cut Off DRY: 19 / 19:00 DRY\n19 / 23:00 REEFER → 21 / 12:00\nDRY & REEFER | Cut Off Reefer: 19 / 19:00 DRY\n19 / 23:00 REEFER → 21 / 12:00\nDRY & REEFER",
-      "arribo_prev": "20 / 12:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 18,
@@ -720,7 +714,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-13T17:18:35.411199",
+  "updated_at": "2026-11-13T21:49:38.774551",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
