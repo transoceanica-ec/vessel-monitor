@@ -11,7 +11,7 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "16 / 12:54",
       "zarpe": "17 / 13:00",
-      "zarpe_prev": "17 / 12:00",
+      "zarpe_prev": null,
       "co_dry": "16 / 08:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -20,9 +20,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026COSU0061",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 16 / 17:00 → 16 / 12:54 | Zarpe EC: 17 / 12:00 → 17 / 13:00",
-      "arribo_prev": "16 / 17:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 2,
@@ -265,18 +264,17 @@
       "dest": "China, Japón, México",
       "arribo": "24 / 16:00",
       "zarpe": "26 / 07:00",
-      "zarpe_prev": "24 / 09:00",
+      "zarpe_prev": null,
       "co_dry": "23 / 17:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "23 / 17:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0062",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 22 / 18:00 → 24 / 16:00 | Zarpe EC: 24 / 09:00 → 26 / 07:00 | Cut Off DRY: POR CONFIRMAR → 23 / 17:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 23 / 17:00\nDRY & REEFER",
-      "arribo_prev": "22 / 18:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 13,
@@ -739,7 +737,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-17T17:44:02.088892",
+  "updated_at": "2026-11-17T22:58:35.103166",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
