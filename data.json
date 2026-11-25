@@ -13,15 +13,15 @@
       "zarpe": "01 / 08:00",
       "zarpe_prev": null,
       "co_dry": "30 / 07:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "30 / 07:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026HLCU0205",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 30 / 07:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 30 / 07:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 2,
@@ -195,7 +195,7 @@
       "dest": "España, Francia, Italia, Mediterráneo Sur",
       "arribo": "23 / 20:00",
       "zarpe": "24 / 16:00",
-      "zarpe_prev": "24 / 12:00",
+      "zarpe_prev": null,
       "co_dry": "23 / 07:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -204,8 +204,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0228",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Zarpe EC: 24 / 12:00 → 24 / 16:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 10,
@@ -227,9 +227,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0229",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 27 / 02:00 → 26 / 16:00",
-      "arribo_prev": "27 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 11,
@@ -320,9 +319,8 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0230",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Arribo EC: 27 / 02:00 → 26 / 16:00",
-      "arribo_prev": "27 / 02:00"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 15,
@@ -360,15 +358,15 @@
       "zarpe": "POR CONFIRMAR",
       "zarpe_prev": null,
       "co_dry": "CANCEL CALL",
-      "co_dry_prev": "25 / 19:00 DRY\n25 / 23:00 REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "CANCEL CALL",
-      "co_rf_prev": "25 / 19:00 DRY\n25 / 23:00 REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 25 / 19:00 DRY\n25 / 23:00 REEFER → CANCEL CALL | Cut Off Reefer: 25 / 19:00 DRY\n25 / 23:00 REEFER → CANCEL CALL"
+      "status": "pend",
+      "nota": null
     },
     {
       "id": 17,
@@ -693,7 +691,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-24T18:19:50.672192",
+  "updated_at": "2026-11-25T01:17:01.378305",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
