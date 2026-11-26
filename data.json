@@ -82,15 +82,15 @@
       "zarpe": "04 / 12:00",
       "zarpe_prev": null,
       "co_dry": "02 / 19:00 DRY\n02 / 23:00 REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "02 / 19:00 DRY\n02 / 23:00 REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026ONEU0061",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 02 / 19:00 DRY\n02 / 23:00 REEFER | Cut Off Reefer: POR CONFIRMAR → 02 / 19:00 DRY\n02 / 23:00 REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 5,
@@ -105,15 +105,15 @@
       "zarpe": "04 / 17:00",
       "zarpe_prev": null,
       "co_dry": "03 / 07:00\nDRY & REEFER",
-      "co_dry_prev": "POR CONFIRMAR",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "03 / 07:00\nDRY & REEFER",
-      "co_rf_prev": "POR CONFIRMAR",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "CEC2026COSU0064",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: POR CONFIRMAR → 03 / 07:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 03 / 07:00\nDRY & REEFER"
+      "status": "ok",
+      "nota": null
     },
     {
       "id": 6,
@@ -335,15 +335,15 @@
       "zarpe": "POR CONFIRMAR",
       "zarpe_prev": null,
       "co_dry": "OMIT CALL",
-      "co_dry_prev": "CANCEL CALL",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "OMIT CALL",
-      "co_rf_prev": "CANCEL CALL",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: CANCEL CALL → OMIT CALL | Cut Off Reefer: CANCEL CALL → OMIT CALL"
+      "status": "pend",
+      "nota": null
     },
     {
       "id": 16,
@@ -381,15 +381,15 @@
       "zarpe": "POR CONFIRMAR",
       "zarpe_prev": null,
       "co_dry": "OMIT CALL",
-      "co_dry_prev": "03 / 19:00 DRY\n03 / 23:00 REEFER",
+      "co_dry_prev": null,
       "co_dry_past": false,
       "co_rf": "OMIT CALL",
-      "co_rf_prev": "03 / 19:00 DRY\n03 / 23:00 REEFER",
+      "co_rf_prev": null,
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "AMC",
-      "status": "mod",
-      "nota": "Cut Off DRY: 03 / 19:00 DRY\n03 / 23:00 REEFER → OMIT CALL | Cut Off Reefer: 03 / 19:00 DRY\n03 / 23:00 REEFER → OMIT CALL"
+      "status": "pend",
+      "nota": null
     },
     {
       "id": 18,
@@ -691,7 +691,7 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-25T20:22:23.509609",
+  "updated_at": "2026-11-26T05:15:19.752783",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
