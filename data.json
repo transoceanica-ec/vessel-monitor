@@ -72,7 +72,7 @@
     {
       "id": 4,
       "wk": 48,
-      "carrier": "—",
+      "carrier": "ONE",
       "nave": "MARTINIQUE ONE",
       "viaje": "AMX0G0S19",
       "terminal": "Guayaquil",
@@ -81,21 +81,21 @@
       "arribo": "03 / 02:00",
       "zarpe": "04 / 12:00",
       "zarpe_prev": null,
-      "co_dry": "POR CONFIRMAR",
-      "co_dry_prev": null,
+      "co_dry": "02 / 19:00 DRY\n02 / 23:00 REEFER",
+      "co_dry_prev": "POR CONFIRMAR",
       "co_dry_past": false,
-      "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
+      "co_rf": "02 / 19:00 DRY\n02 / 23:00 REEFER",
+      "co_rf_prev": "POR CONFIRMAR",
       "co_rf_past": false,
-      "mrn": "—",
+      "mrn": "CEC2026ONEU0061",
       "fuente": "AMC",
-      "status": "pend",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: POR CONFIRMAR → 02 / 19:00 DRY\n02 / 23:00 REEFER | Cut Off Reefer: POR CONFIRMAR → 02 / 19:00 DRY\n02 / 23:00 REEFER"
     },
     {
       "id": 5,
       "wk": 48,
-      "carrier": "—",
+      "carrier": "COS",
       "nave": "COSCO SHIPPING SEINE COS",
       "viaje": "0WCP9N1MA\n0WCP9N1NC",
       "terminal": "Posorja (DPW)",
@@ -104,42 +104,19 @@
       "arribo": "03 / 15:00",
       "zarpe": "04 / 17:00",
       "zarpe_prev": null,
-      "co_dry": "POR CONFIRMAR",
-      "co_dry_prev": null,
+      "co_dry": "03 / 07:00\nDRY & REEFER",
+      "co_dry_prev": "POR CONFIRMAR",
       "co_dry_past": false,
-      "co_rf": "POR CONFIRMAR",
-      "co_rf_prev": null,
+      "co_rf": "03 / 07:00\nDRY & REEFER",
+      "co_rf_prev": "POR CONFIRMAR",
       "co_rf_past": false,
-      "mrn": "—",
+      "mrn": "CEC2026COSU0064",
       "fuente": "AMC",
-      "status": "pend",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: POR CONFIRMAR → 03 / 07:00\nDRY & REEFER | Cut Off Reefer: POR CONFIRMAR → 03 / 07:00\nDRY & REEFER"
     },
     {
       "id": 6,
-      "wk": 48,
-      "carrier": "CMA",
-      "nave": "CMA CGM ALIAGA CMA",
-      "viaje": "AMX0D0N19",
-      "terminal": "Guayaquil",
-      "svc": "AMERICAS XL NB",
-      "dest": "EEUU, Puerto Rico, México",
-      "arribo": "04 / 12:00",
-      "zarpe": "05 / 15:00",
-      "zarpe_prev": null,
-      "co_dry": "03 / 19:00 DRY\n03 / 23:00 REEFER",
-      "co_dry_prev": null,
-      "co_dry_past": false,
-      "co_rf": "03 / 19:00 DRY\n03 / 23:00 REEFER",
-      "co_rf_prev": null,
-      "co_rf_past": false,
-      "mrn": "CEC2026CMAU0233",
-      "fuente": "AMC",
-      "status": "ok",
-      "nota": null
-    },
-    {
-      "id": 7,
       "wk": 48,
       "carrier": "CMA",
       "nave": "CMA CGM BETTER WAYS CMA",
@@ -162,7 +139,7 @@
       "nota": null
     },
     {
-      "id": 8,
+      "id": 7,
       "wk": 48,
       "carrier": "CMA",
       "nave": "COSCO PRINCE RUPERT CMA",
@@ -185,7 +162,7 @@
       "nota": null
     },
     {
-      "id": 9,
+      "id": 8,
       "wk": 48,
       "carrier": "CMA",
       "nave": "CMA CGM ESTELLE CMA",
@@ -208,7 +185,7 @@
       "nota": null
     },
     {
-      "id": 10,
+      "id": 9,
       "wk": 48,
       "carrier": "CMA",
       "nave": "CMA CGM POINTE-NOIRE CMA",
@@ -231,7 +208,7 @@
       "nota": null
     },
     {
-      "id": 11,
+      "id": 10,
       "wk": 48,
       "carrier": "COS",
       "nave": "CSCL ASIA COS",
@@ -254,7 +231,7 @@
       "nota": null
     },
     {
-      "id": 12,
+      "id": 11,
       "wk": 48,
       "carrier": "HLC",
       "nave": "CALLAO EXPRESS HLC",
@@ -277,7 +254,7 @@
       "nota": null
     },
     {
-      "id": 13,
+      "id": 12,
       "wk": 48,
       "carrier": "COS",
       "nave": "MATTHEW SCHULTE COS",
@@ -300,7 +277,7 @@
       "nota": null
     },
     {
-      "id": 14,
+      "id": 13,
       "wk": 48,
       "carrier": "CMA",
       "nave": "CMA CGM POINTE-NOIRE CMA",
@@ -323,7 +300,7 @@
       "nota": null
     },
     {
-      "id": 15,
+      "id": 14,
       "wk": 48,
       "carrier": "CMA",
       "nave": "CMA CGM KIMBERLEY CMA",
@@ -346,7 +323,7 @@
       "nota": null
     },
     {
-      "id": 16,
+      "id": 15,
       "wk": 48,
       "carrier": "—",
       "nave": "HSL NIKE ONE",
@@ -357,19 +334,19 @@
       "arribo": "—",
       "zarpe": "POR CONFIRMAR",
       "zarpe_prev": null,
-      "co_dry": "CANCEL CALL",
-      "co_dry_prev": null,
+      "co_dry": "OMIT CALL",
+      "co_dry_prev": "CANCEL CALL",
       "co_dry_past": false,
-      "co_rf": "CANCEL CALL",
-      "co_rf_prev": null,
+      "co_rf": "OMIT CALL",
+      "co_rf_prev": "CANCEL CALL",
       "co_rf_past": false,
       "mrn": "—",
       "fuente": "AMC",
-      "status": "pend",
-      "nota": null
+      "status": "mod",
+      "nota": "Cut Off DRY: CANCEL CALL → OMIT CALL | Cut Off Reefer: CANCEL CALL → OMIT CALL"
     },
     {
-      "id": 17,
+      "id": 16,
       "wk": 48,
       "carrier": "—",
       "nave": "Week # 49",
@@ -390,6 +367,29 @@
       "fuente": "AMC",
       "status": "pend",
       "nota": null
+    },
+    {
+      "id": 17,
+      "wk": 48,
+      "carrier": "—",
+      "nave": "CMA CGM ALIAGA CMA",
+      "viaje": "AMX0D0N19",
+      "terminal": "Guayaquil",
+      "svc": "AMERICAS XL NB",
+      "dest": "EEUU, Puerto Rico, México",
+      "arribo": "—",
+      "zarpe": "POR CONFIRMAR",
+      "zarpe_prev": null,
+      "co_dry": "OMIT CALL",
+      "co_dry_prev": "03 / 19:00 DRY\n03 / 23:00 REEFER",
+      "co_dry_past": false,
+      "co_rf": "OMIT CALL",
+      "co_rf_prev": "03 / 19:00 DRY\n03 / 23:00 REEFER",
+      "co_rf_past": false,
+      "mrn": "—",
+      "fuente": "AMC",
+      "status": "mod",
+      "nota": "Cut Off DRY: 03 / 19:00 DRY\n03 / 23:00 REEFER → OMIT CALL | Cut Off Reefer: 03 / 19:00 DRY\n03 / 23:00 REEFER → OMIT CALL"
     },
     {
       "id": 18,
@@ -691,10 +691,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-25T12:43:10.821669",
+  "updated_at": "2026-11-25T20:22:23.509609",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-11-24T18:19:50.198381"
+  "last_changes_at": "2026-11-25T20:22:23.112999"
 }
