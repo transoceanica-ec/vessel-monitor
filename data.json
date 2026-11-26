@@ -170,9 +170,9 @@
       "terminal": "Posorja (DPW)",
       "svc": "EUROSAL SB",
       "dest": "España, Francia, Italia, Mediterráneo Sur",
-      "arribo": "23 / 20:00",
-      "zarpe": "24 / 16:00",
-      "zarpe_prev": null,
+      "arribo": "23 / 19:54",
+      "zarpe": "24 / 18:15",
+      "zarpe_prev": "24 / 16:00",
       "co_dry": "23 / 07:00\nDRY & REEFER",
       "co_dry_prev": null,
       "co_dry_past": false,
@@ -181,8 +181,9 @@
       "co_rf_past": false,
       "mrn": "CEC2026CMAU0228",
       "fuente": "AMC",
-      "status": "ok",
-      "nota": null
+      "status": "mod",
+      "nota": "Arribo EC: 23 / 20:00 → 23 / 19:54 | Zarpe EC: 24 / 16:00 → 24 / 18:15",
+      "arribo_prev": "23 / 20:00"
     },
     {
       "id": 9,
@@ -233,6 +234,29 @@
     {
       "id": 11,
       "wk": 48,
+      "carrier": "—",
+      "nave": "ECO SIROCCO XPS",
+      "viaje": "274070N13",
+      "terminal": "Guayaquil",
+      "svc": "M2A",
+      "dest": "China, Japón, México",
+      "arribo": "26 / 08:00",
+      "zarpe": "26 / 20:00",
+      "zarpe_prev": null,
+      "co_dry": "26 / 20:00\nDRY & REEFER",
+      "co_dry_prev": null,
+      "co_dry_past": false,
+      "co_rf": "26 / 20:00\nDRY & REEFER",
+      "co_rf_prev": null,
+      "co_rf_past": false,
+      "mrn": "CEC202678120663",
+      "fuente": "AMC",
+      "status": "ok",
+      "nota": null
+    },
+    {
+      "id": 12,
+      "wk": 48,
       "carrier": "HLC",
       "nave": "CALLAO EXPRESS HLC",
       "viaje": "0WCP7N1MA\n0WCP7N1NC",
@@ -254,7 +278,7 @@
       "nota": null
     },
     {
-      "id": 12,
+      "id": 13,
       "wk": 48,
       "carrier": "COS",
       "nave": "MATTHEW SCHULTE COS",
@@ -277,7 +301,7 @@
       "nota": null
     },
     {
-      "id": 13,
+      "id": 14,
       "wk": 48,
       "carrier": "CMA",
       "nave": "CMA CGM POINTE-NOIRE CMA",
@@ -300,7 +324,7 @@
       "nota": null
     },
     {
-      "id": 14,
+      "id": 15,
       "wk": 48,
       "carrier": "CMA",
       "nave": "CMA CGM KIMBERLEY CMA",
@@ -323,7 +347,7 @@
       "nota": null
     },
     {
-      "id": 15,
+      "id": 16,
       "wk": 48,
       "carrier": "—",
       "nave": "HSL NIKE ONE",
@@ -346,7 +370,7 @@
       "nota": null
     },
     {
-      "id": 16,
+      "id": 17,
       "wk": 48,
       "carrier": "—",
       "nave": "Week # 49",
@@ -369,7 +393,7 @@
       "nota": null
     },
     {
-      "id": 17,
+      "id": 18,
       "wk": 48,
       "carrier": "—",
       "nave": "CMA CGM ALIAGA CMA",
@@ -392,7 +416,7 @@
       "nota": null
     },
     {
-      "id": 18,
+      "id": 19,
       "wk": 48,
       "carrier": "—",
       "nave": "PLAZOS DOCUMENTALES",
@@ -415,7 +439,7 @@
       "nota": null
     },
     {
-      "id": 19,
+      "id": 20,
       "wk": 48,
       "carrier": "—",
       "nave": "EUROSAL SUR",
@@ -438,7 +462,7 @@
       "nota": null
     },
     {
-      "id": 20,
+      "id": 21,
       "wk": 48,
       "carrier": "—",
       "nave": "M2A\nWEEK 48: CSCL ASIA M2A010W19",
@@ -461,7 +485,7 @@
       "nota": null
     },
     {
-      "id": 21,
+      "id": 22,
       "wk": 48,
       "carrier": "—",
       "nave": "M2A\nWEEK 49: GLEN CANYON M2A030W19",
@@ -484,7 +508,7 @@
       "nota": null
     },
     {
-      "id": 22,
+      "id": 23,
       "wk": 48,
       "carrier": "—",
       "nave": "AMERICAS XL SB",
@@ -507,7 +531,7 @@
       "nota": null
     },
     {
-      "id": 23,
+      "id": 24,
       "wk": 48,
       "carrier": "—",
       "nave": "AMERICAS XL NB",
@@ -530,7 +554,7 @@
       "nota": null
     },
     {
-      "id": 24,
+      "id": 25,
       "wk": 48,
       "carrier": "—",
       "nave": "MEDCAR POSORJA",
@@ -553,7 +577,7 @@
       "nota": null
     },
     {
-      "id": 25,
+      "id": 26,
       "wk": 48,
       "carrier": "—",
       "nave": "MEDCAR GUAYAQUIL",
@@ -576,7 +600,7 @@
       "nota": null
     },
     {
-      "id": 26,
+      "id": 27,
       "wk": 48,
       "carrier": "—",
       "nave": "EUROSAL NB",
@@ -599,7 +623,7 @@
       "nota": null
     },
     {
-      "id": 27,
+      "id": 28,
       "wk": 48,
       "carrier": "—",
       "nave": "ACSA 1",
@@ -622,7 +646,7 @@
       "nota": null
     },
     {
-      "id": 28,
+      "id": 29,
       "wk": 48,
       "carrier": "—",
       "nave": "NOTA IMPORTANTE:",
@@ -645,7 +669,7 @@
       "nota": null
     },
     {
-      "id": 29,
+      "id": 30,
       "wk": 48,
       "carrier": "—",
       "nave": "Por favor notar que se aplicarán los siguientes rubros en caso de envío y solicitudes de correcciones fuera de plazo:\nSolicitud de correcciones fuera de plazo $ 272",
@@ -668,7 +692,7 @@
       "nota": null
     },
     {
-      "id": 30,
+      "id": 31,
       "wk": 48,
       "carrier": "—",
       "nave": "Considerar que en caso de no recibir su(s) Shipping instruction(s), la (s) unidad(es) no podrián ser considerada(s) para embarque.",
@@ -691,10 +715,10 @@
       "nota": null
     }
   ],
-  "updated_at": "2026-11-26T05:15:19.752783",
+  "updated_at": "2026-11-26T14:56:00.158639",
   "sources": {
     "amc_url": "https://ec.cargoamc.com/LinkClick.aspx?fileticket=cYUyrp3IjlA%3d&tabid=172&portalid=1",
     "one_sheet": "https://docs.google.com/spreadsheets/d/18vsHilT2cRxeMY3HamN63BGcSBTakEiHzgqB5vtdNWg"
   },
-  "last_changes_at": "2026-11-25T20:22:23.112999"
+  "last_changes_at": "2026-11-26T14:55:59.906689"
 }
